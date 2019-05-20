@@ -1,14 +1,10 @@
-{  
-   "mainPlan":{  
-      "productCode":"0880"
-   },
-   "paymentMethod":{  
-      "paymentMethod":"SRS"
-   },
-   "insured":{  
-      "birthdate":"1980-02-03"
-   },
-   "policyHolder":{  
-      "birthdate":"1980-02-03"
-   }
+{
+  "mainPlan": [
+    {
+      "productCode": "0880",
+      "paymentMethod": "SRS",
+      "insuredbirthdate": "1980-02-03",
+      "policyholderbirthdate": "1980-02-03"
+    }
+  ]
 }
