@@ -1,10 +1,138 @@
 {
-  "mainPlan": 
+  "planCode": "0880",
+  "planName": "GREAT SP Flexi",
+  "planNameForFLP": "GREAT SP Flexi",
+  "planNameForProposal": "",
+  "subGroupCode": "SPS_6",
+  "subGroupName": "GREAT SP Flexi",
+  "abbreviationName": "0880",
+  "productAbbreviationName": "GSPFlexi",
+  "category": "1",
+  "groupCategory": "EDW",
+  "groupCode": "SPS_6",
+  "groupName": "GREAT SP Flexi",
+  "minSumAssured": "10500.00",
+  "maxSumAssured": "9999999999.00",
+  "sumAssuredUnit": "1",
+  "minEntryAge": "1",
+  "minEntryAgeUnit": "1",
+  "maxEntryAge": "80",
+  "minPhEntryAge": "17",
+  "maxPhEntryAge": "80",
+  "maxEntryAgeUnit": "1",
+  "minCoverageTerm": "4",
+  "maxCoverageTerm": "4",
+  "maxCoverageAge": "99",
+  "minPaymentTerm": "0",
+  "maxPaymentTerm": "0",
+  "maxPaymentAge": "0",
+  "paymentYear": "1",
+  "coverageYear": "4",
+  "channels": [
+    "FADC",
+    "TAGT",
+    "CDIR",
+    "CAGT",
+    "BROK"
+  ],
+  "isEligible": true,
+  "startDate": "2018-12-06 00:00:00",
+  "isWaiver": false,
+  "isPBR": false,
+  "investmentStrategy": [],
+  "investableFund": [],
+  "isBackdate": false,
+  "backdatePeriod": "12",
+  "isMandatory": false,
+  "isDefault": false,
+  "occClass": "0",
+  "occClass2": "0",
+  "reverseCalType": "SP",
+  "fieldCodes": [
     {
-      "productCode": "0880",
-      "paymentMethod": "SRS",
-      "insuredbirthdate": "1980-02-03",
-      "policyholderbirthdate": "1980-02-03"
+      "fieldCd": "planName",
+      "fieldIndi": "I"
+    },
+    {
+      "fieldCd": "calculationMethod",
+      "fieldIndi": "I"
+    },
+    {
+      "fieldCd": "sumAssured",
+      "fieldIndi": "D",
+      "fieldOptions": [
+        null
+      ]
+    },
+    {
+      "fieldCd": "singlePremium",
+      "fieldIndi": "I",
+      "fieldValue": "35000"
+    },
+    {
+      "fieldCd": "coverageTerm",
+      "fieldIndi": "D",
+      "fieldValue": "5",
+      "fieldOptions": [
+        "4"
+      ]
+    },
+    {
+      "fieldCd": "paymentType",
+      "fieldIndi": "I",
+      "fieldValue": "1",
+      "fieldOptions": [
+        "1",
+        "12"
+      ]
+    },
+    {
+      "fieldCd": "option3",
+      "fieldIndi": "I",
+      "fieldValue": "1",
+      "fieldOptions": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "fieldCd": "productInvestmentRisk",
+      "fieldIndi": "D",
+      "fieldValue": "-",
+      "fieldOptions": [
+        "1.0"
+      ]
+    },
+    {
+      "fieldCd": "sumAssured",
+      "fieldIndi": "I",
+      "fieldOptions": [
+        null
+      ]
+    },
+    {
+      "fieldCd": "singlePremium",
+      "fieldIndi": "D",
+      "fieldValue": "35000"
+    },
+    {
+      "fieldCd": "paymentType",
+      "fieldIndi": "I",
+      "fieldValue": "1",
+      "fieldOptions": [
+        "1",
+        "12"
+      ]
     }
-  
+  ],
+  "riders": [],
+  "chargePeriodType": "1",
+  "coveragePeriodType": "2",
+  "multiplierFactor": "0",
+  "multiplierMaxAge": "0",
+  "moneyCode": "SGD",
+  "moneySign": "S$",
+  "planAbbr": "SPS6",
+  "unitFlag": "19",
+  "isForeignerAttachable": "Y"
 }
