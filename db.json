@@ -1,12 +1,12 @@
 {
   "mainPlan": {
-   "planCode": "0880",
-  "planName": "GREAT SP Flexi",
-  "minSumAssured": "10500.00",
-  "maxSumAssured": "9999999999.00",
+    "planCode": "0880",
+    "planName": "GREAT SP Flexi",
+    "minSumAssured": "10500.00",
+    "maxSumAssured": "9999999999.00",
     "minEntryAge": "1",
-  "maxEntryAge": "80",
-   "coverageYear": "4",
+    "maxEntryAge": "80",
+    "coverageYear": "4",
     "paymentMethod": "SRS"
   }
 }
