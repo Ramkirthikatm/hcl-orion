@@ -2,8 +2,8 @@
   "mainPlan": {
     "planCode": "0880",
     "planName": "GREAT SP Flexi",
-    "minSumAssured": "10500.00",
-    "maxSumAssured": "9999999999.00",
+    "minSumAssured": "10500 SGD",
+    "maxSumAssured": "20000 SGD",
     "minEntryAge": "1",
     "maxEntryAge": "80",
     "coverageYear": "4",
