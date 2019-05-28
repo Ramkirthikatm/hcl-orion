@@ -1,166 +1,21 @@
 {
-   "referenceType":"country",
+   "referenceType":"race",
    "values":[
       {
-         "code":"AD",
-         "description":"ANDORRA"
+         "code":"C",
+         "description":"CHINESE"
       },
       {
-         "code":"AE",
-         "description":"UNITED ARAB EMIRATES"
+         "code":"M",
+         "description":"MALAY"
       },
       {
-         "code":"AF",
-         "description":"AFGHANISTAN"
+         "code":"I",
+         "description":"INDIAN"
       },
       {
-         "code":"AG",
-         "description":"ANTIGUA AND BARBUDA"
-      },
-      {
-         "code":"AI",
-         "description":"ANGUILLA"
-      },
-      {
-         "code":"AL",
-         "description":"ALBANIA"
-      },
-      {
-         "code":"AM",
-         "description":"ARMENIA"
-      },
-      {
-         "code":"AN",
-         "description":"NETHERLANDS ANTILLES"
-      },
-      {
-         "code":"AO",
-         "description":"ANGOLA"
-      },
-      {
-         "code":"AQ",
-         "description":"ANTARCTICA"
-      },
-      {
-         "code":"AR",
-         "description":"ARGENTINA"
-      },
-      {
-         "code":"AS",
-         "description":"AMERICAN SAMOA"
-      },
-      {
-         "code":"AT",
-         "description":"AUSTRIA"
-      },
-      {
-         "code":"AU",
-         "description":"AUSTRALIA"
-      },
-      {
-         "code":"AW",
-         "description":"ARUBA"
-      },
-      {
-         "code":"AX",
-         "description":"ALAND ISLANDS"
-      },
-      {
-         "code":"AZ",
-         "description":"AZERBAIDJAN"
-      },
-      {
-         "code":"BA",
-         "description":"BOSNIA-HERZEGOVINA"
-      },
-      {
-         "code":"BB",
-         "description":"BARBADOS"
-      },
-      {
-         "code":"BD",
-         "description":"BANGLADESH"
-      },
-      {
-         "code":"BE",
-         "description":"BELGIUM"
-      },
-      {
-         "code":"BF",
-         "description":"BURKINA FASO"
-      },
-      {
-         "code":"BG",
-         "description":"BULGARIA"
-      },
-      {
-         "code":"BH",
-         "description":"BAHRAIN"
-      },
-      {
-         "code":"BI",
-         "description":"BURUNDI"
-      },
-      {
-         "code":"BJ",
-         "description":"BENIN"
-      },
-      {
-         "code":"BM",
-         "description":"BERMUDA"
-      },
-      {
-         "code":"BN",
-         "description":"BRUNEI DARUSSALAM"
-      },
-      {
-         "code":"BO",
-         "description":"BOLIVIA"
-      },
-      {
-         "code":"BR",
-         "description":"BRAZIL"
-      },
-      {
-         "code":"BS",
-         "description":"BAHAMAS"
-      },
-      {
-         "code":"BT",
-         "description":"BHUTAN"
-      },
-      {
-         "code":"BV",
-         "description":"BOUVET ISLAND"
-      },
-      {
-         "code":"BW",
-         "description":"BOTSWANA"
-      },
-      {
-         "code":"BY",
-         "description":"BELARUS"
-      },
-      {
-         "code":"BZ",
-         "description":"BELIZE"
-      },
-      {
-         "code":"CA",
-         "description":"CANADA"
-      },
-      {
-         "code":"CC",
-         "description":"COCOS ISLANDS"
-      },
-      {
-         "code":"CD",
-         "description":"CONGO DEMOCRATIC REP"
-      },
-      {
-         "code":"CF",
-         "description":"CENTRAL AFRICAN REP"
+         "code":"O",
+         "description":"OTHERS"
       }
-
    ]
 }
