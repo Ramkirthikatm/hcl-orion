@@ -1,19 +1,25 @@
  {
- 	"planCode": "0880",
- 	"planName": "GREAT SP Flexi",
- 	"abbreviationName": "0880",
- 	"productAbbreviationName": "GSPFlexi",
- 	"category": "1",
- 	"minSumAssured": "10500",
- 	"maxSumAssured": "20000.00",
- 	"sumAssuredUnit": "1",
- 	"minEntryAge": "18",
- 	"minEntryAgeUnit": "1",
- 	"maxEntryAge": "50",
- 	"maxEntryAgeUnit": "1",
- 	"minCoverageTerm": "4",
- 	"maxCoverageTerm": "4",
- 	"maxCoverageAge": "99",
- 	"minPaymentTerm": "0",
- 	"maxPaymentTerm": "0"
+ 	"mainPlan": {
+ 		"planCode": "0880",
+ 		"planName": "GREAT SP Flexi",
+ 		"abbreviationName": "0880",
+ 		"productAbbreviationName": "GSPFlexi",
+ 		"category": "1",
+ 		"minSumAssured": "10500.00",
+ 		"maxSumAssured": "9999999999.00",
+ 		"sumAssuredUnit": "1",
+ 		"minEntryAge": "1",
+ 		"minEntryAgeUnit": "1",
+ 		"maxEntryAge": "80",
+ 		"maxEntryAgeUnit": "1",
+ 		"minCoverageTerm": "4",
+ 		"maxCoverageTerm": "4",
+ 		"maxCoverageAge": "99",
+ 		"minPaymentTerm": "0",
+ 		"maxPaymentTerm": "0",
+ 		"paymentOptions": [
+ 			"CASH_CHEQUE",
+ 			"SRS"
+ 		]
+ 	}
  }
