@@ -1,4 +1,4 @@
-{
+  "mainPlan": {
  planCode": "0880",
   "planName": "GREAT SP Flexi",
   "abbreviationName": "0880",
@@ -15,6 +15,6 @@
   "maxCoverageTerm": "4",
   "maxCoverageAge": "99",
   "minPaymentTerm": "0",
-  "maxPaymentTerm": "0",
+  "maxPaymentTerm": "0"
 }
 
