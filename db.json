@@ -18,8 +18,8 @@
  		"minPaymentTerm": "0",
  		"maxPaymentTerm": "0",
  		"paymentOptions": [
- 			"CASH_CHEQUE",
- 			"SRS"
+ 		{"id":"CASH_CHEQUE","name":"Cash/Cheque/AXS/OnlineBanking"},
+   	{"id":"SRS","name":"SRS"},
  		]
  	}
  }
