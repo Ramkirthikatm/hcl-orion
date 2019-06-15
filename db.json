@@ -18,7 +18,7 @@
 		"minPaymentTerm": "0",
 		"maxPaymentTerm": "0",
 		"paymentOptions":  [
-    "CASH_CHEQUE",
+    "cash/cheque/AXS/bank transfer",
     "SRS"
   ]
 
