@@ -1,27 +1,7007 @@
-{
-	"mainPlan": {
-		"planCode": "0880",
-		"planName": "GREAT SP Flexi 220",
-		"abbreviationName": "0880",
-		"productAbbreviationName": "GSPFlexi",
-		"category": "1",
-		"minSumAssured": "10500.00",
-		"maxSumAssured": "15000.00",
-		"sumAssuredUnit": "1",
-		"minEntryAge": "1",
-		"minEntryAgeUnit": "1",
-		"maxEntryAge": "80",
-		"maxEntryAgeUnit": "1",
-		"minCoverageTerm": "4",
-		"maxCoverageTerm": "4",
-		"maxCoverageAge": "99",
-		"minPaymentTerm": "0",
-		"maxPaymentTerm": "0",
-		"paymentOptions":  [
-    "cash/cheque/AXS/bank transfer",
-    "SRS"
-  ]
-
-		
-	}
-}
+[  
+   {  
+      "referenceType":"COUNTRY",
+      "values":[  
+         {  
+            "code":"AFG",
+            "description":"Afghanistan"
+         },
+         {  
+            "code":"AGO",
+            "description":"Angola"
+         },
+         {  
+            "code":"AI",
+            "description":"Anguilla"
+         },
+         {  
+            "code":"ALB",
+            "description":"Albania"
+         },
+         {  
+            "code":"AN",
+            "description":"Netherlands Antilles"
+         },
+         {  
+            "code":"AND",
+            "description":"Andorra"
+         },
+         {  
+            "code":"AQ",
+            "description":"Antarctica"
+         },
+         {  
+            "code":"ARE",
+            "description":"United Arab Emirates"
+         },
+         {  
+            "code":"ARG",
+            "description":"Argentina"
+         },
+         {  
+            "code":"ARM",
+            "description":"Armenia"
+         },
+         {  
+            "code":"AS",
+            "description":"American Samoa"
+         },
+         {  
+            "code":"ATA",
+            "description":"Antarctica"
+         },
+         {  
+            "code":"ATG",
+            "description":"Antigua And Barbuda"
+         },
+         {  
+            "code":"AUS",
+            "description":"Australia"
+         },
+         {  
+            "code":"AUT",
+            "description":"Austria"
+         },
+         {  
+            "code":"AW",
+            "description":"Aruba"
+         },
+         {  
+            "code":"AX",
+            "description":"Aland Islands"
+         },
+         {  
+            "code":"AZE",
+            "description":"Azerbaidjan"
+         },
+         {  
+            "code":"BDI",
+            "description":"Burundi"
+         },
+         {  
+            "code":"BEL",
+            "description":"Belgium"
+         },
+         {  
+            "code":"BEN",
+            "description":"Benin"
+         },
+         {  
+            "code":"BFA",
+            "description":"Burkina Faso"
+         },
+         {  
+            "code":"BGD",
+            "description":"Bangladesh"
+         },
+         {  
+            "code":"BGR",
+            "description":"Bulgaria"
+         },
+         {  
+            "code":"BHR",
+            "description":"Bahrain"
+         },
+         {  
+            "code":"BHS",
+            "description":"Bahamas"
+         },
+         {  
+            "code":"BIH",
+            "description":"Bosnia-Herzegovina"
+         },
+         {  
+            "code":"BLR",
+            "description":"Belarus"
+         },
+         {  
+            "code":"BLZ",
+            "description":"Belize"
+         },
+         {  
+            "code":"BM",
+            "description":"Bermuda"
+         },
+         {  
+            "code":"BOL",
+            "description":"Bolivia"
+         },
+         {  
+            "code":"BRA",
+            "description":"Brazil"
+         },
+         {  
+            "code":"BRB",
+            "description":"Barbados"
+         },
+         {  
+            "code":"BRN",
+            "description":"Brunei Darussalam"
+         },
+         {  
+            "code":"BTN",
+            "description":"Bhutan"
+         },
+         {  
+            "code":"BWA",
+            "description":"Botswana"
+         },
+         {  
+            "code":"CAF",
+            "description":"Central African Rep"
+         },
+         {  
+            "code":"CAN",
+            "description":"Canada"
+         },
+         {  
+            "code":"CC",
+            "description":"Cocos Islands"
+         },
+         {  
+            "code":"CHE",
+            "description":"Switzerland"
+         },
+         {  
+            "code":"CHL",
+            "description":"Chile"
+         },
+         {  
+            "code":"CHN",
+            "description":"China"
+         },
+         {  
+            "code":"CIV",
+            "description":"Ivory Coast"
+         },
+         {  
+            "code":"CK",
+            "description":"Cook Islands"
+         },
+         {  
+            "code":"CMR",
+            "description":"Cameroon"
+         },
+         {  
+            "code":"COD",
+            "description":"Congo Democratic Rep"
+         },
+         {  
+            "code":"COG",
+            "description":"Congo"
+         },
+         {  
+            "code":"COL",
+            "description":"Colombia"
+         },
+         {  
+            "code":"COM",
+            "description":"Comoros"
+         },
+         {  
+            "code":"CPV",
+            "description":"Cape Verde"
+         },
+         {  
+            "code":"CRI",
+            "description":"Costa Rica"
+         },
+         {  
+            "code":"CS",
+            "description":"Serbia & Montenegro"
+         },
+         {  
+            "code":"CUB",
+            "description":"Cuba"
+         },
+         {  
+            "code":"CX",
+            "description":"Christmas Islands"
+         },
+         {  
+            "code":"CYP",
+            "description":"Cyprus"
+         },
+         {  
+            "code":"CZE",
+            "description":"Czech Republic"
+         },
+         {  
+            "code":"DEU",
+            "description":"Germany"
+         },
+         {  
+            "code":"DJI",
+            "description":"Djibouti"
+         },
+         {  
+            "code":"DMA",
+            "description":"Dominica"
+         },
+         {  
+            "code":"DNK",
+            "description":"Denmark"
+         },
+         {  
+            "code":"DOM",
+            "description":"Dominican Republic"
+         },
+         {  
+            "code":"DZA",
+            "description":"Algeria"
+         },
+         {  
+            "code":"ECU",
+            "description":"Ecuador"
+         },
+         {  
+            "code":"EGY",
+            "description":"Egypt"
+         },
+         {  
+            "code":"EH",
+            "description":"Western Sahara"
+         },
+         {  
+            "code":"ERI",
+            "description":"Eritrea"
+         },
+         {  
+            "code":"ESP",
+            "description":"Spain"
+         },
+         {  
+            "code":"EST",
+            "description":"Estonia"
+         },
+         {  
+            "code":"ETH",
+            "description":"Ethiopia"
+         },
+         {  
+            "code":"FIN",
+            "description":"Finland"
+         },
+         {  
+            "code":"FJI",
+            "description":"Fiji"
+         },
+         {  
+            "code":"FK",
+            "description":"Falkland Islands"
+         },
+         {  
+            "code":"FO",
+            "description":"Faeroe Island"
+         },
+         {  
+            "code":"FRA",
+            "description":"France"
+         },
+         {  
+            "code":"FSM",
+            "description":"Micronesia Fed State"
+         },
+         {  
+            "code":"GAB",
+            "description":"Gabon"
+         },
+         {  
+            "code":"GBR",
+            "description":"United Kingdom"
+         },
+         {  
+            "code":"GEO",
+            "description":"Georgia"
+         },
+         {  
+            "code":"GF",
+            "description":"French Guyana"
+         },
+         {  
+            "code":"GHA",
+            "description":"Ghana"
+         },
+         {  
+            "code":"GI",
+            "description":"Gibraltar"
+         },
+         {  
+            "code":"GIN",
+            "description":"Guinea"
+         },
+         {  
+            "code":"GL",
+            "description":"Greenland"
+         },
+         {  
+            "code":"GMB",
+            "description":"Gambia"
+         },
+         {  
+            "code":"GNB",
+            "description":"Guinea Bissau"
+         },
+         {  
+            "code":"GNQ",
+            "description":"Equatorial Guinea"
+         },
+         {  
+            "code":"GP",
+            "description":"Guadeloupe"
+         },
+         {  
+            "code":"GRC",
+            "description":"Greece"
+         },
+         {  
+            "code":"GRD",
+            "description":"Grenada"
+         },
+         {  
+            "code":"GRL",
+            "description":"Greenland"
+         },
+         {  
+            "code":"GS",
+            "description":"South Georgia"
+         },
+         {  
+            "code":"GTM",
+            "description":"Guatemala"
+         },
+         {  
+            "code":"GU",
+            "description":"Guam"
+         },
+         {  
+            "code":"GUY",
+            "description":"Guyana"
+         },
+         {  
+            "code":"HKG",
+            "description":"Hong Kong"
+         },
+         {  
+            "code":"HND",
+            "description":"Honduras"
+         },
+         {  
+            "code":"HRV",
+            "description":"Croatia"
+         },
+         {  
+            "code":"HTI",
+            "description":"Haiti"
+         },
+         {  
+            "code":"HUN",
+            "description":"Hungary"
+         },
+         {  
+            "code":"IDN",
+            "description":"Indonesia"
+         },
+         {  
+            "code":"IM",
+            "description":"Isle of Man"
+         },
+         {  
+            "code":"IND",
+            "description":"India"
+         },
+         {  
+            "code":"IO",
+            "description":"Indian Ocean T/Tory"
+         },
+         {  
+            "code":"IRL",
+            "description":"Ireland"
+         },
+         {  
+            "code":"IRN",
+            "description":"Iran Islamic Rep Of"
+         },
+         {  
+            "code":"IRQ",
+            "description":"Iraq"
+         },
+         {  
+            "code":"ISL",
+            "description":"Iceland"
+         },
+         {  
+            "code":"ISR",
+            "description":"Israel"
+         },
+         {  
+            "code":"ITA",
+            "description":"Italy"
+         },
+         {  
+            "code":"JAM",
+            "description":"Jamaica"
+         },
+         {  
+            "code":"JE",
+            "description":"Jersey"
+         },
+         {  
+            "code":"JOR",
+            "description":"Jordan"
+         },
+         {  
+            "code":"JPN",
+            "description":"Japan"
+         },
+         {  
+            "code":"KAZ",
+            "description":"Kazakhstan"
+         },
+         {  
+            "code":"KEN",
+            "description":"Kenya"
+         },
+         {  
+            "code":"KGZ",
+            "description":"Kyrgyz republic"
+         },
+         {  
+            "code":"KHM",
+            "description":"Cambodia"
+         },
+         {  
+            "code":"KIR",
+            "description":"Kiribati"
+         },
+         {  
+            "code":"KNA",
+            "description":"St. Kitts-Nevis"
+         },
+         {  
+            "code":"KOR",
+            "description":"South Korea"
+         },
+         {  
+            "code":"KWT",
+            "description":"Kuwait"
+         },
+         {  
+            "code":"KY",
+            "description":"Cayman Islands"
+         },
+         {  
+            "code":"LAO",
+            "description":"Lao"
+         },
+         {  
+            "code":"LBN",
+            "description":"Lebanon"
+         },
+         {  
+            "code":"LBR",
+            "description":"Liberia"
+         },
+         {  
+            "code":"LBY",
+            "description":"Libyan"
+         },
+         {  
+            "code":"LCA",
+            "description":"St. Lucia"
+         },
+         {  
+            "code":"LIE",
+            "description":"Liechtenstein"
+         },
+         {  
+            "code":"LKA",
+            "description":"Sri Lanka"
+         },
+         {  
+            "code":"LSO",
+            "description":"Lesotho"
+         },
+         {  
+            "code":"LTU",
+            "description":"Lithuania"
+         },
+         {  
+            "code":"LUX",
+            "description":"Luxembourg"
+         },
+         {  
+            "code":"LVA",
+            "description":"Latvia"
+         },
+         {  
+            "code":"MAR",
+            "description":"Morocco"
+         },
+         {  
+            "code":"MCO",
+            "description":"Monaco"
+         },
+         {  
+            "code":"MDA",
+            "description":"Moldavia"
+         },
+         {  
+            "code":"MDG",
+            "description":"Madagascar"
+         },
+         {  
+            "code":"MDV",
+            "description":"Maldives"
+         },
+         {  
+            "code":"MEX",
+            "description":"Mexico"
+         },
+         {  
+            "code":"MHL",
+            "description":"Marshall Islands"
+         },
+         {  
+            "code":"MKD",
+            "description":"Macedonia"
+         },
+         {  
+            "code":"MLI",
+            "description":"Mali"
+         },
+         {  
+            "code":"MLT",
+            "description":"Malta"
+         },
+         {  
+            "code":"MMR",
+            "description":"Myanmar"
+         },
+         {  
+            "code":"MNE",
+            "description":"Montenegro"
+         },
+         {  
+            "code":"MNG",
+            "description":"Mongolia"
+         },
+         {  
+            "code":"MO",
+            "description":"Macao"
+         },
+         {  
+            "code":"MOZ",
+            "description":"Mozambique"
+         },
+         {  
+            "code":"MP",
+            "description":"Northern Mariana"
+         },
+         {  
+            "code":"MQ",
+            "description":"Martinique"
+         },
+         {  
+            "code":"MRT",
+            "description":"Mauritania"
+         },
+         {  
+            "code":"MS",
+            "description":"Montserrat"
+         },
+         {  
+            "code":"MUS",
+            "description":"Mauritius"
+         },
+         {  
+            "code":"MWI",
+            "description":"Malawi"
+         },
+         {  
+            "code":"MYS",
+            "description":"Malaysia"
+         },
+         {  
+            "code":"NAM",
+            "description":"Namibia"
+         },
+         {  
+            "code":"NC",
+            "description":"New Caledonia"
+         },
+         {  
+            "code":"NER",
+            "description":"Niger"
+         },
+         {  
+            "code":"NF",
+            "description":"Norfolk Island"
+         },
+         {  
+            "code":"NGA",
+            "description":"Nigeria"
+         },
+         {  
+            "code":"NIC",
+            "description":"Nicaragua"
+         },
+         {  
+            "code":"NLD",
+            "description":"Netherlands"
+         },
+         {  
+            "code":"NOR",
+            "description":"Norway"
+         },
+         {  
+            "code":"NPL",
+            "description":"Nepal"
+         },
+         {  
+            "code":"NRU",
+            "description":"Nauru"
+         },
+         {  
+            "code":"NU",
+            "description":"Niue"
+         },
+         {  
+            "code":"NZL",
+            "description":"New Zealand"
+         },
+         {  
+            "code":"OMN",
+            "description":"Oman"
+         },
+         {  
+            "code":"PAK",
+            "description":"Pakistan"
+         },
+         {  
+            "code":"PAN",
+            "description":"Panama"
+         },
+         {  
+            "code":"PER",
+            "description":"Peru"
+         },
+         {  
+            "code":"PF",
+            "description":"French Polynesia"
+         },
+         {  
+            "code":"PHL",
+            "description":"Philippines"
+         },
+         {  
+            "code":"PLW",
+            "description":"Palau"
+         },
+         {  
+            "code":"PM",
+            "description":"St. Pierre"
+         },
+         {  
+            "code":"PN",
+            "description":"Pitcairn Island"
+         },
+         {  
+            "code":"PNG",
+            "description":"Papua New Guinea"
+         },
+         {  
+            "code":"POL",
+            "description":"Poland"
+         },
+         {  
+            "code":"PR",
+            "description":"Puerto Rico"
+         },
+         {  
+            "code":"PRK",
+            "description":"North Korea"
+         },
+         {  
+            "code":"PRT",
+            "description":"Portugal"
+         },
+         {  
+            "code":"PRY",
+            "description":"Paraguay"
+         },
+         {  
+            "code":"PS",
+            "description":"Palestinia Territory"
+         },
+         {  
+            "code":"QAT",
+            "description":"Qatar"
+         },
+         {  
+            "code":"RE",
+            "description":"Reunion (French)"
+         },
+         {  
+            "code":"ROU",
+            "description":"Romania"
+         },
+         {  
+            "code":"RUS",
+            "description":"Russia"
+         },
+         {  
+            "code":"RWA",
+            "description":"Rwanda"
+         },
+         {  
+            "code":"SAU",
+            "description":"Saudi Arabia"
+         },
+         {  
+            "code":"SDN",
+            "description":"Sudan"
+         },
+         {  
+            "code":"SEN",
+            "description":"Senegal"
+         },
+         {  
+            "code":"SGP",
+            "description":"Singapore"
+         },
+         {  
+            "code":"SH",
+            "description":"St. Helena"
+         },
+         {  
+            "code":"SJ",
+            "description":"Svalbard & Jan Mayen"
+         },
+         {  
+            "code":"SLB",
+            "description":"Solomon Islands"
+         },
+         {  
+            "code":"SLE",
+            "description":"Sierra Leone"
+         },
+         {  
+            "code":"SLV",
+            "description":"El Salvador"
+         },
+         {  
+            "code":"SMR",
+            "description":"San Marino"
+         },
+         {  
+            "code":"SOM",
+            "description":"Somalia"
+         },
+         {  
+            "code":"SRB",
+            "description":"Serbia"
+         },
+         {  
+            "code":"STP",
+            "description":"Sao Tome & Principe"
+         },
+         {  
+            "code":"SUR",
+            "description":"Suriname"
+         },
+         {  
+            "code":"SVK",
+            "description":"Slovak Republic"
+         },
+         {  
+            "code":"SVN",
+            "description":"Slovenia"
+         },
+         {  
+            "code":"SWE",
+            "description":"Sweden"
+         },
+         {  
+            "code":"SWZ",
+            "description":"Swaziland"
+         },
+         {  
+            "code":"SYC",
+            "description":"Seychelles"
+         },
+         {  
+            "code":"SYR",
+            "description":"Syrian Arab Republic"
+         },
+         {  
+            "code":"TC",
+            "description":"Turks Caicos Islands"
+         },
+         {  
+            "code":"TCD",
+            "description":"Chad"
+         },
+         {  
+            "code":"TF",
+            "description":"Southern Territories"
+         },
+         {  
+            "code":"TGO",
+            "description":"Togo"
+         },
+         {  
+            "code":"THA",
+            "description":"Thailand"
+         },
+         {  
+            "code":"TJK",
+            "description":"Tadjikistan"
+         },
+         {  
+            "code":"TK",
+            "description":"Tokelau"
+         },
+         {  
+            "code":"TKM",
+            "description":"Turkmenistan"
+         },
+         {  
+            "code":"TMP",
+            "description":"Timor-Leste"
+         },
+         {  
+            "code":"TON",
+            "description":"Tonga"
+         },
+         {  
+            "code":"TTO",
+            "description":"Trinidad And Tobago"
+         },
+         {  
+            "code":"TUN",
+            "description":"Tunisia"
+         },
+         {  
+            "code":"TUR",
+            "description":"Turkey"
+         },
+         {  
+            "code":"TUV",
+            "description":"Tuvalu"
+         },
+         {  
+            "code":"TWN",
+            "description":"Taiwan"
+         },
+         {  
+            "code":"TZA",
+            "description":"Tanzania"
+         },
+         {  
+            "code":"UGA",
+            "description":"Uganda"
+         },
+         {  
+            "code":"UKR",
+            "description":"Ukraine"
+         },
+         {  
+            "code":"UM",
+            "description":"US Outlying Islands"
+         },
+         {  
+            "code":"URY",
+            "description":"Uruguay"
+         },
+         {  
+            "code":"US",
+            "description":"United States"
+         },
+         {  
+            "code":"UZB",
+            "description":"Uzbekistan"
+         },
+         {  
+            "code":"VAT",
+            "description":"Vatican City State"
+         },
+         {  
+            "code":"VCT",
+            "description":"St. Vincent"
+         },
+         {  
+            "code":"VEN",
+            "description":"Venezuela"
+         },
+         {  
+            "code":"VG",
+            "description":"Brit Virgin Islands"
+         },
+         {  
+            "code":"VI",
+            "description":"US Virgin Islands"
+         },
+         {  
+            "code":"VNM",
+            "description":"Vietnam"
+         },
+         {  
+            "code":"VUT",
+            "description":"Vanuatu"
+         },
+         {  
+            "code":"WF",
+            "description":"Wallis And Futuna"
+         },
+         {  
+            "code":"WSM",
+            "description":"Samoa"
+         },
+         {  
+            "code":"YEM",
+            "description":"Yemen"
+         },
+         {  
+            "code":"YT",
+            "description":"Mayotte"
+         },
+         {  
+            "code":"YUG",
+            "description":"Yugoslavia"
+         },
+         {  
+            "code":"ZAF",
+            "description":"South Africa"
+         },
+         {  
+            "code":"ZMB",
+            "description":"Zambia"
+         },
+         {  
+            "code":"ZWE",
+            "description":"Zimbabwe"
+         }
+      ]
+   },
+   {  
+      "referenceType":"COUNTRYTAXRESIDENCY",
+      "values":[  
+         {  
+            "code":"AFG",
+            "description":"Afghanistan"
+         },
+         {  
+            "code":"AGO",
+            "description":"Angola"
+         },
+         {  
+            "code":"AI",
+            "description":"Anguilla"
+         },
+         {  
+            "code":"ALB",
+            "description":"Albania"
+         },
+         {  
+            "code":"AND",
+            "description":"Andorra"
+         },
+         {  
+            "code":"AQ",
+            "description":"Antarctica"
+         },
+         {  
+            "code":"ARE",
+            "description":"United Arab Emirates"
+         },
+         {  
+            "code":"ARG",
+            "description":"Argentina"
+         },
+         {  
+            "code":"ARM",
+            "description":"Armenia"
+         },
+         {  
+            "code":"AS",
+            "description":"American Samoa"
+         },
+         {  
+            "code":"ATA",
+            "description":"Antarctica"
+         },
+         {  
+            "code":"ATG",
+            "description":"Antigua And Barbuda"
+         },
+         {  
+            "code":"AUS",
+            "description":"Australia"
+         },
+         {  
+            "code":"AUT",
+            "description":"Austria"
+         },
+         {  
+            "code":"AW",
+            "description":"Aruba"
+         },
+         {  
+            "code":"AX",
+            "description":"Aland Islands"
+         },
+         {  
+            "code":"AZE",
+            "description":"Azerbaidjan"
+         },
+         {  
+            "code":"BDI",
+            "description":"Burundi"
+         },
+         {  
+            "code":"BEL",
+            "description":"Belgium"
+         },
+         {  
+            "code":"BEN",
+            "description":"Benin"
+         },
+         {  
+            "code":"BFA",
+            "description":"Burkina Faso"
+         },
+         {  
+            "code":"BGD",
+            "description":"Bangladesh"
+         },
+         {  
+            "code":"BGR",
+            "description":"Bulgaria"
+         },
+         {  
+            "code":"BHR",
+            "description":"Bahrain"
+         },
+         {  
+            "code":"BHS",
+            "description":"Bahamas"
+         },
+         {  
+            "code":"BIH",
+            "description":"Bosnia-Herzegovina"
+         },
+         {  
+            "code":"BLR",
+            "description":"Belarus"
+         },
+         {  
+            "code":"BLZ",
+            "description":"Belize"
+         },
+         {  
+            "code":"BM",
+            "description":"Bermuda"
+         },
+         {  
+            "code":"BOL",
+            "description":"Bolivia"
+         },
+         {  
+            "code":"BRA",
+            "description":"Brazil"
+         },
+         {  
+            "code":"BRB",
+            "description":"Barbados"
+         },
+         {  
+            "code":"BRN",
+            "description":"Brunei Darussalam"
+         },
+         {  
+            "code":"BTN",
+            "description":"Bhutan"
+         },
+         {  
+            "code":"BWA",
+            "description":"Botswana"
+         },
+         {  
+            "code":"CAF",
+            "description":"Central African Rep"
+         },
+         {  
+            "code":"CAN",
+            "description":"Canada"
+         },
+         {  
+            "code":"CC",
+            "description":"Cocos Islands"
+         },
+         {  
+            "code":"CHE",
+            "description":"Switzerland"
+         },
+         {  
+            "code":"CHL",
+            "description":"Chile"
+         },
+         {  
+            "code":"CHN",
+            "description":"China"
+         },
+         {  
+            "code":"CIV",
+            "description":"Ivory Coast"
+         },
+         {  
+            "code":"CK",
+            "description":"Cook Islands"
+         },
+         {  
+            "code":"CMR",
+            "description":"Cameroon"
+         },
+         {  
+            "code":"COD",
+            "description":"Congo Democratic Rep"
+         },
+         {  
+            "code":"COG",
+            "description":"Congo"
+         },
+         {  
+            "code":"COL",
+            "description":"Colombia"
+         },
+         {  
+            "code":"COM",
+            "description":"Comoros"
+         },
+         {  
+            "code":"CPV",
+            "description":"Cape Verde"
+         },
+         {  
+            "code":"CRI",
+            "description":"Costa Rica"
+         },
+         {  
+            "code":"CS",
+            "description":"Serbia & Montenegro"
+         },
+         {  
+            "code":"CUB",
+            "description":"Cuba"
+         },
+         {  
+            "code":"CX",
+            "description":"Christmas Islands"
+         },
+         {  
+            "code":"CYP",
+            "description":"Cyprus"
+         },
+         {  
+            "code":"CZE",
+            "description":"Czech Republic"
+         },
+         {  
+            "code":"DEU",
+            "description":"Germany"
+         },
+         {  
+            "code":"DJI",
+            "description":"Djibouti"
+         },
+         {  
+            "code":"DMA",
+            "description":"Dominica"
+         },
+         {  
+            "code":"DNK",
+            "description":"Denmark"
+         },
+         {  
+            "code":"DOM",
+            "description":"Dominican Republic"
+         },
+         {  
+            "code":"DZA",
+            "description":"Algeria"
+         },
+         {  
+            "code":"ECU",
+            "description":"Ecuador"
+         },
+         {  
+            "code":"EGY",
+            "description":"Egypt"
+         },
+         {  
+            "code":"EH",
+            "description":"Western Sahara"
+         },
+         {  
+            "code":"ERI",
+            "description":"Eritrea"
+         },
+         {  
+            "code":"ESP",
+            "description":"Spain"
+         },
+         {  
+            "code":"EST",
+            "description":"Estonia"
+         },
+         {  
+            "code":"ETH",
+            "description":"Ethiopia"
+         },
+         {  
+            "code":"FIN",
+            "description":"Finland"
+         },
+         {  
+            "code":"FJI",
+            "description":"Fiji"
+         },
+         {  
+            "code":"FK",
+            "description":"Falkland Islands"
+         },
+         {  
+            "code":"FO",
+            "description":"Faeroe Island"
+         },
+         {  
+            "code":"FRA",
+            "description":"France"
+         },
+         {  
+            "code":"FSM",
+            "description":"Micronesia Fed State"
+         },
+         {  
+            "code":"GAB",
+            "description":"Gabon"
+         },
+         {  
+            "code":"GBR",
+            "description":"United Kingdom"
+         },
+         {  
+            "code":"GEO",
+            "description":"Georgia"
+         },
+         {  
+            "code":"GF",
+            "description":"French Guyana"
+         },
+         {  
+            "code":"GHA",
+            "description":"Ghana"
+         },
+         {  
+            "code":"GI",
+            "description":"Gibraltar"
+         },
+         {  
+            "code":"GIN",
+            "description":"Guinea"
+         },
+         {  
+            "code":"GL",
+            "description":"Greenland"
+         },
+         {  
+            "code":"GMB",
+            "description":"Gambia"
+         },
+         {  
+            "code":"GNB",
+            "description":"Guinea Bissau"
+         },
+         {  
+            "code":"GNQ",
+            "description":"Equatorial Guinea"
+         },
+         {  
+            "code":"GP",
+            "description":"Guadeloupe"
+         },
+         {  
+            "code":"GRC",
+            "description":"Greece"
+         },
+         {  
+            "code":"GRD",
+            "description":"Grenada"
+         },
+         {  
+            "code":"GRL",
+            "description":"Greenland"
+         },
+         {  
+            "code":"GS",
+            "description":"South Georgia"
+         },
+         {  
+            "code":"GTM",
+            "description":"Guatemala"
+         },
+         {  
+            "code":"GU",
+            "description":"Guam"
+         },
+         {  
+            "code":"GUY",
+            "description":"Guyana"
+         },
+         {  
+            "code":"HKG",
+            "description":"Hong Kong"
+         },
+         {  
+            "code":"HND",
+            "description":"Honduras"
+         },
+         {  
+            "code":"HRV",
+            "description":"Croatia"
+         },
+         {  
+            "code":"HTI",
+            "description":"Haiti"
+         },
+         {  
+            "code":"HUN",
+            "description":"Hungary"
+         },
+         {  
+            "code":"IDN",
+            "description":"Indonesia"
+         },
+         {  
+            "code":"IM",
+            "description":"Isle of Man"
+         },
+         {  
+            "code":"IND",
+            "description":"India"
+         },
+         {  
+            "code":"IO",
+            "description":"Indian Ocean T/Tory"
+         },
+         {  
+            "code":"IRL",
+            "description":"Ireland"
+         },
+         {  
+            "code":"IRN",
+            "description":"Iran Islamic Rep Of"
+         },
+         {  
+            "code":"IRQ",
+            "description":"Iraq"
+         },
+         {  
+            "code":"ISL",
+            "description":"Iceland"
+         },
+         {  
+            "code":"ISR",
+            "description":"Israel"
+         },
+         {  
+            "code":"ITA",
+            "description":"Italy"
+         },
+         {  
+            "code":"JAM",
+            "description":"Jamaica"
+         },
+         {  
+            "code":"JE",
+            "description":"Jersey"
+         },
+         {  
+            "code":"JOR",
+            "description":"Jordan"
+         },
+         {  
+            "code":"JPN",
+            "description":"Japan"
+         },
+         {  
+            "code":"KAZ",
+            "description":"Kazakhstan"
+         },
+         {  
+            "code":"KEN",
+            "description":"Kenya"
+         },
+         {  
+            "code":"KGZ",
+            "description":"Kyrgyz republic"
+         },
+         {  
+            "code":"KHM",
+            "description":"Cambodia"
+         },
+         {  
+            "code":"KIR",
+            "description":"Kiribati"
+         },
+         {  
+            "code":"KNA",
+            "description":"St. Kitts-Nevis"
+         },
+         {  
+            "code":"KOR",
+            "description":"South Korea"
+         },
+         {  
+            "code":"KWT",
+            "description":"Kuwait"
+         },
+         {  
+            "code":"KY",
+            "description":"Cayman Islands"
+         },
+         {  
+            "code":"LAO",
+            "description":"Lao"
+         },
+         {  
+            "code":"LBN",
+            "description":"Lebanon"
+         },
+         {  
+            "code":"LBR",
+            "description":"Liberia"
+         },
+         {  
+            "code":"LBY",
+            "description":"Libyan"
+         },
+         {  
+            "code":"LCA",
+            "description":"St. Lucia"
+         },
+         {  
+            "code":"LIE",
+            "description":"Liechtenstein"
+         },
+         {  
+            "code":"LKA",
+            "description":"Sri Lanka"
+         },
+         {  
+            "code":"LSO",
+            "description":"Lesotho"
+         },
+         {  
+            "code":"LTU",
+            "description":"Lithuania"
+         },
+         {  
+            "code":"LUX",
+            "description":"Luxembourg"
+         },
+         {  
+            "code":"LVA",
+            "description":"Latvia"
+         },
+         {  
+            "code":"MAR",
+            "description":"Morocco"
+         },
+         {  
+            "code":"MCO",
+            "description":"Monaco"
+         },
+         {  
+            "code":"MDA",
+            "description":"Moldavia"
+         },
+         {  
+            "code":"MDG",
+            "description":"Madagascar"
+         },
+         {  
+            "code":"MDV",
+            "description":"Maldives"
+         },
+         {  
+            "code":"MEX",
+            "description":"Mexico"
+         },
+         {  
+            "code":"MHL",
+            "description":"Marshall Islands"
+         },
+         {  
+            "code":"MKD",
+            "description":"Macedonia"
+         },
+         {  
+            "code":"MLI",
+            "description":"Mali"
+         },
+         {  
+            "code":"MLT",
+            "description":"Malta"
+         },
+         {  
+            "code":"MMR",
+            "description":"Myanmar"
+         },
+         {  
+            "code":"MNE",
+            "description":"Montenegro"
+         },
+         {  
+            "code":"MNG",
+            "description":"Mongolia"
+         },
+         {  
+            "code":"MO",
+            "description":"Macao"
+         },
+         {  
+            "code":"MOZ",
+            "description":"Mozambique"
+         },
+         {  
+            "code":"MP",
+            "description":"Northern Mariana"
+         },
+         {  
+            "code":"MQ",
+            "description":"Martinique"
+         },
+         {  
+            "code":"MRT",
+            "description":"Mauritania"
+         },
+         {  
+            "code":"MS",
+            "description":"Montserrat"
+         },
+         {  
+            "code":"MUS",
+            "description":"Mauritius"
+         },
+         {  
+            "code":"MWI",
+            "description":"Malawi"
+         },
+         {  
+            "code":"MYS",
+            "description":"Malaysia"
+         },
+         {  
+            "code":"NAM",
+            "description":"Namibia"
+         },
+         {  
+            "code":"NC",
+            "description":"New Caledonia"
+         },
+         {  
+            "code":"NER",
+            "description":"Niger"
+         },
+         {  
+            "code":"NF",
+            "description":"Norfolk Island"
+         },
+         {  
+            "code":"NGA",
+            "description":"Nigeria"
+         },
+         {  
+            "code":"NIC",
+            "description":"Nicaragua"
+         },
+         {  
+            "code":"NLD",
+            "description":"Netherlands"
+         },
+         {  
+            "code":"NOR",
+            "description":"Norway"
+         },
+         {  
+            "code":"NPL",
+            "description":"Nepal"
+         },
+         {  
+            "code":"NRU",
+            "description":"Nauru"
+         },
+         {  
+            "code":"NU",
+            "description":"Niue"
+         },
+         {  
+            "code":"NZL",
+            "description":"New Zealand"
+         },
+         {  
+            "code":"OMN",
+            "description":"Oman"
+         },
+         {  
+            "code":"PAK",
+            "description":"Pakistan"
+         },
+         {  
+            "code":"PAN",
+            "description":"Panama"
+         },
+         {  
+            "code":"PER",
+            "description":"Peru"
+         },
+         {  
+            "code":"PF",
+            "description":"French Polynesia"
+         },
+         {  
+            "code":"PHL",
+            "description":"Philippines"
+         },
+         {  
+            "code":"PLW",
+            "description":"Palau"
+         },
+         {  
+            "code":"PM",
+            "description":"St. Pierre"
+         },
+         {  
+            "code":"PN",
+            "description":"Pitcairn Island"
+         },
+         {  
+            "code":"PNG",
+            "description":"Papua New Guinea"
+         },
+         {  
+            "code":"POL",
+            "description":"Poland"
+         },
+         {  
+            "code":"PR",
+            "description":"Puerto Rico"
+         },
+         {  
+            "code":"PRK",
+            "description":"North Korea"
+         },
+         {  
+            "code":"PRT",
+            "description":"Portugal"
+         },
+         {  
+            "code":"PRY",
+            "description":"Paraguay"
+         },
+         {  
+            "code":"PS",
+            "description":"Palestinia Territory"
+         },
+         {  
+            "code":"QAT",
+            "description":"Qatar"
+         },
+         {  
+            "code":"RE",
+            "description":"Reunion (French)"
+         },
+         {  
+            "code":"ROU",
+            "description":"Romania"
+         },
+         {  
+            "code":"RUS",
+            "description":"Russia"
+         },
+         {  
+            "code":"RWA",
+            "description":"Rwanda"
+         },
+         {  
+            "code":"SAU",
+            "description":"Saudi Arabia"
+         },
+         {  
+            "code":"SDN",
+            "description":"Sudan"
+         },
+         {  
+            "code":"SEN",
+            "description":"Senegal"
+         },
+         {  
+            "code":"SGP",
+            "description":"Singapore"
+         },
+         {  
+            "code":"SH",
+            "description":"St. Helena"
+         },
+         {  
+            "code":"SJ",
+            "description":"Svalbard & Jan Mayen"
+         },
+         {  
+            "code":"SLB",
+            "description":"Solomon Islands"
+         },
+         {  
+            "code":"SLE",
+            "description":"Sierra Leone"
+         },
+         {  
+            "code":"SLV",
+            "description":"El Salvador"
+         },
+         {  
+            "code":"SMR",
+            "description":"San Marino"
+         },
+         {  
+            "code":"SOM",
+            "description":"Somalia"
+         },
+         {  
+            "code":"SRB",
+            "description":"Serbia"
+         },
+         {  
+            "code":"STP",
+            "description":"Sao Tome & Principe"
+         },
+         {  
+            "code":"SUR",
+            "description":"Suriname"
+         },
+         {  
+            "code":"SVK",
+            "description":"Slovak Republic"
+         },
+         {  
+            "code":"SVN",
+            "description":"Slovenia"
+         },
+         {  
+            "code":"SWE",
+            "description":"Sweden"
+         },
+         {  
+            "code":"SWZ",
+            "description":"Swaziland"
+         },
+         {  
+            "code":"SYC",
+            "description":"Seychelles"
+         },
+         {  
+            "code":"SYR",
+            "description":"Syrian Arab Republic"
+         },
+         {  
+            "code":"TC",
+            "description":"Turks Caicos Islands"
+         },
+         {  
+            "code":"TCD",
+            "description":"Chad"
+         },
+         {  
+            "code":"TF",
+            "description":"Southern Territories"
+         },
+         {  
+            "code":"TGO",
+            "description":"Togo"
+         },
+         {  
+            "code":"THA",
+            "description":"Thailand"
+         },
+         {  
+            "code":"TJK",
+            "description":"Tadjikistan"
+         },
+         {  
+            "code":"TK",
+            "description":"Tokelau"
+         },
+         {  
+            "code":"TKM",
+            "description":"Turkmenistan"
+         },
+         {  
+            "code":"TMP",
+            "description":"Timor-Leste"
+         },
+         {  
+            "code":"TON",
+            "description":"Tonga"
+         },
+         {  
+            "code":"TTO",
+            "description":"Trinidad And Tobago"
+         },
+         {  
+            "code":"TUN",
+            "description":"Tunisia"
+         },
+         {  
+            "code":"TUR",
+            "description":"Turkey"
+         },
+         {  
+            "code":"TUV",
+            "description":"Tuvalu"
+         },
+         {  
+            "code":"TWN",
+            "description":"Taiwan"
+         },
+         {  
+            "code":"TZA",
+            "description":"Tanzania"
+         },
+         {  
+            "code":"UGA",
+            "description":"Uganda"
+         },
+         {  
+            "code":"UKR",
+            "description":"Ukraine"
+         },
+         {  
+            "code":"UM",
+            "description":"US Outlying Islands"
+         },
+         {  
+            "code":"URY",
+            "description":"Uruguay"
+         },
+         {  
+            "code":"US",
+            "description":"United States"
+         },
+         {  
+            "code":"UZB",
+            "description":"Uzbekistan"
+         },
+         {  
+            "code":"VAT",
+            "description":"Vatican City State"
+         },
+         {  
+            "code":"VCT",
+            "description":"St. Vincent"
+         },
+         {  
+            "code":"VEN",
+            "description":"Venezuela"
+         },
+         {  
+            "code":"VG",
+            "description":"Brit Virgin Islands"
+         },
+         {  
+            "code":"VI",
+            "description":"US Virgin Islands"
+         },
+         {  
+            "code":"VNM",
+            "description":"Vietnam"
+         },
+         {  
+            "code":"VUT",
+            "description":"Vanuatu"
+         },
+         {  
+            "code":"WF",
+            "description":"Wallis And Futuna"
+         },
+         {  
+            "code":"WSM",
+            "description":"Samoa"
+         },
+         {  
+            "code":"YEM",
+            "description":"Yemen"
+         },
+         {  
+            "code":"YT",
+            "description":"Mayotte"
+         },
+         {  
+            "code":"YUG",
+            "description":"Yugoslavia"
+         },
+         {  
+            "code":"ZAF",
+            "description":"South Africa"
+         },
+         {  
+            "code":"ZMB",
+            "description":"Zambia"
+         },
+         {  
+            "code":"ZWE",
+            "description":"Zimbabwe"
+         }
+      ]
+   },
+   {  
+      "referenceType":"GENDER",
+      "values":[  
+         {  
+            "code":"F",
+            "description":"Female"
+         },
+         {  
+            "code":"M",
+            "description":"Male"
+         }
+      ]
+   },
+   {  
+      "referenceType":"MARITIALSTATUS",
+      "values":[  
+         {  
+            "code":"D",
+            "description":"Divorced"
+         },
+         {  
+            "code":"M",
+            "description":"Married"
+         },
+         {  
+            "code":"S",
+            "description":"Single"
+         },
+         {  
+            "code":"W",
+            "description":"Widowed"
+         }
+      ]
+   },
+   {  
+      "referenceType":"NATIONALITY",
+      "values":[  
+         {  
+            "code":"100",
+            "description":"Georgian"
+         },
+         {  
+            "code":"101",
+            "description":"German"
+         },
+         {  
+            "code":"102",
+            "description":"Ghanaian"
+         },
+         {  
+            "code":"103",
+            "description":"Greek"
+         },
+         {  
+            "code":"104",
+            "description":"Grenadian"
+         },
+         {  
+            "code":"105",
+            "description":"Guatemalan"
+         },
+         {  
+            "code":"107",
+            "description":"Guinean"
+         },
+         {  
+            "code":"108",
+            "description":"Guyanese"
+         },
+         {  
+            "code":"109",
+            "description":"Haitian"
+         },
+         {  
+            "code":"11",
+            "description":"Cook Islander"
+         },
+         {  
+            "code":"111",
+            "description":"Honduran"
+         },
+         {  
+            "code":"112",
+            "description":"Hungarian"
+         },
+         {  
+            "code":"113",
+            "description":"Icelander"
+         },
+         {  
+            "code":"114",
+            "description":"I-Kiribati"
+         },
+         {  
+            "code":"115",
+            "description":"Irish"
+         },
+         {  
+            "code":"116",
+            "description":"Israeli"
+         },
+         {  
+            "code":"117",
+            "description":"Italian"
+         },
+         {  
+            "code":"119",
+            "description":"Jamaican"
+         },
+         {  
+            "code":"120",
+            "description":"Jordanian"
+         },
+         {  
+            "code":"122",
+            "description":"Kenyan"
+         },
+         {  
+            "code":"124",
+            "description":"Kuwaiti"
+         },
+         {  
+            "code":"125",
+            "description":"Kyrgyz"
+         },
+         {  
+            "code":"127",
+            "description":"Latvian"
+         },
+         {  
+            "code":"128",
+            "description":"Lebanese"
+         },
+         {  
+            "code":"129",
+            "description":"Liberian"
+         },
+         {  
+            "code":"13",
+            "description":"Filipino"
+         },
+         {  
+            "code":"130",
+            "description":"Liechtensteiner"
+         },
+         {  
+            "code":"131",
+            "description":"Lithuanian"
+         },
+         {  
+            "code":"132",
+            "description":"Luxembourger"
+         },
+         {  
+            "code":"133",
+            "description":"Macedonian"
+         },
+         {  
+            "code":"134",
+            "description":"Malagasy"
+         },
+         {  
+            "code":"135",
+            "description":"Malawian"
+         },
+         {  
+            "code":"136",
+            "description":"Maldivan"
+         },
+         {  
+            "code":"137",
+            "description":"Malian"
+         },
+         {  
+            "code":"138",
+            "description":"Maltese"
+         },
+         {  
+            "code":"139",
+            "description":"Marshallese"
+         },
+         {  
+            "code":"14",
+            "description":"Hong Konger"
+         },
+         {  
+            "code":"140",
+            "description":"Mauritanian"
+         },
+         {  
+            "code":"141",
+            "description":"Mauritian"
+         },
+         {  
+            "code":"142",
+            "description":"Mexican"
+         },
+         {  
+            "code":"143",
+            "description":"Micronesian"
+         },
+         {  
+            "code":"144",
+            "description":"Moldovan"
+         },
+         {  
+            "code":"145",
+            "description":"Monacan"
+         },
+         {  
+            "code":"146",
+            "description":"Mongolian"
+         },
+         {  
+            "code":"149",
+            "description":"Mozambican"
+         },
+         {  
+            "code":"15",
+            "description":"Indian"
+         },
+         {  
+            "code":"150",
+            "description":"Namibian"
+         },
+         {  
+            "code":"151",
+            "description":"Nauruan"
+         },
+         {  
+            "code":"152",
+            "description":"Nicaraguan"
+         },
+         {  
+            "code":"153",
+            "description":"North Korean"
+         },
+         {  
+            "code":"155",
+            "description":"Norwegian"
+         },
+         {  
+            "code":"156",
+            "description":"Omani"
+         },
+         {  
+            "code":"157",
+            "description":"Palauan"
+         },
+         {  
+            "code":"158",
+            "description":"Panamanian"
+         },
+         {  
+            "code":"16",
+            "description":"Indonesian"
+         },
+         {  
+            "code":"160",
+            "description":"Paraguayan"
+         },
+         {  
+            "code":"161",
+            "description":"Peruvian"
+         },
+         {  
+            "code":"163",
+            "description":"Portuguese"
+         },
+         {  
+            "code":"165",
+            "description":"Romanian"
+         },
+         {  
+            "code":"166",
+            "description":"Rwandan"
+         },
+         {  
+            "code":"168",
+            "description":"Salvadoran"
+         },
+         {  
+            "code":"169",
+            "description":"Samoan"
+         },
+         {  
+            "code":"172",
+            "description":"Saudi"
+         },
+         {  
+            "code":"174",
+            "description":"Senegalese"
+         },
+         {  
+            "code":"176",
+            "description":"Seychellois"
+         },
+         {  
+            "code":"177",
+            "description":"Sierra Leonean"
+         },
+         {  
+            "code":"18",
+            "description":"Iraqi"
+         },
+         {  
+            "code":"180",
+            "description":"Solomon Islander"
+         },
+         {  
+            "code":"181",
+            "description":"Somali"
+         },
+         {  
+            "code":"182",
+            "description":"South African"
+         },
+         {  
+            "code":"183",
+            "description":"South Korean"
+         },
+         {  
+            "code":"184",
+            "description":"Spanish"
+         },
+         {  
+            "code":"185",
+            "description":"Sudanese"
+         },
+         {  
+            "code":"187",
+            "description":"Swazi"
+         },
+         {  
+            "code":"189",
+            "description":"Swiss"
+         },
+         {  
+            "code":"19",
+            "description":"Japanese"
+         },
+         {  
+            "code":"190",
+            "description":"Syrian"
+         },
+         {  
+            "code":"192",
+            "description":"Tanzanian"
+         },
+         {  
+            "code":"193",
+            "description":"Togolese"
+         },
+         {  
+            "code":"194",
+            "description":"Tongan"
+         },
+         {  
+            "code":"196",
+            "description":"Tunisian"
+         },
+         {  
+            "code":"198",
+            "description":"Tuvaluan"
+         },
+         {  
+            "code":"199",
+            "description":"Ugandan"
+         },
+         {  
+            "code":"2",
+            "description":"American"
+         },
+         {  
+            "code":"200",
+            "description":"Ukrainian"
+         },
+         {  
+            "code":"201",
+            "description":"Uruguayan"
+         },
+         {  
+            "code":"203",
+            "description":"Venezuelan"
+         },
+         {  
+            "code":"207",
+            "description":"Zambian"
+         },
+         {  
+            "code":"208",
+            "description":"Zimbabwean"
+         },
+         {  
+            "code":"209",
+            "description":"Nigerien"
+         },
+         {  
+            "code":"210",
+            "description":"America Samoan"
+         },
+         {  
+            "code":"212",
+            "description":"Guamanian"
+         },
+         {  
+            "code":"213",
+            "description":"Puerto Rican"
+         },
+         {  
+            "code":"214",
+            "description":"US Virgin Islander"
+         },
+         {  
+            "code":"215",
+            "description":"Afghan"
+         },
+         {  
+            "code":"216",
+            "description":"Argentine"
+         },
+         {  
+            "code":"217",
+            "description":"Bhutanese"
+         },
+         {  
+            "code":"218",
+            "description":"Central African"
+         },
+         {  
+            "code":"219",
+            "description":"Colombian"
+         },
+         {  
+            "code":"22",
+            "description":"Libyan"
+         },
+         {  
+            "code":"220",
+            "description":"Dane"
+         },
+         {  
+            "code":"221",
+            "description":"Ecuadorian"
+         },
+         {  
+            "code":"222",
+            "description":"Emirati"
+         },
+         {  
+            "code":"223",
+            "description":"Guinea-bissau National"
+         },
+         {  
+            "code":"224",
+            "description":"Ivoirian"
+         },
+         {  
+            "code":"225",
+            "description":"Kazakh"
+         },
+         {  
+            "code":"226",
+            "description":"Kittian and Nevisian"
+         },
+         {  
+            "code":"227",
+            "description":"Lao"
+         },
+         {  
+            "code":"228",
+            "description":"Mosotho"
+         },
+         {  
+            "code":"229",
+            "description":"Northern Mariana"
+         },
+         {  
+            "code":"23",
+            "description":"Malaysian"
+         },
+         {  
+            "code":"230",
+            "description":"Papua new Guinean"
+         },
+         {  
+            "code":"231",
+            "description":"Poles"
+         },
+         {  
+            "code":"232",
+            "description":"Qatari"
+         },
+         {  
+            "code":"233",
+            "description":"St Lucian"
+         },
+         {  
+            "code":"234",
+            "description":"Sammarinese"
+         },
+         {  
+            "code":"235",
+            "description":"Sao Tome and Principe"
+         },
+         {  
+            "code":"236",
+            "description":"Serb"
+         },
+         {  
+            "code":"237",
+            "description":"Slovak"
+         },
+         {  
+            "code":"238",
+            "description":"Slovene"
+         },
+         {  
+            "code":"239",
+            "description":"Surinamese"
+         },
+         {  
+            "code":"240",
+            "description":"Swede"
+         },
+         {  
+            "code":"241",
+            "description":"Trinidadian and Tobagonian"
+         },
+         {  
+            "code":"242",
+            "description":"Turk"
+         },
+         {  
+            "code":"243",
+            "description":"Uzbek"
+         },
+         {  
+            "code":"244",
+            "description":"Yemeni"
+         },
+         {  
+            "code":"245",
+            "description":"Yugoslavian"
+         },
+         {  
+            "code":"246",
+            "description":"Alander"
+         },
+         {  
+            "code":"247",
+            "description":"Anguillian"
+         },
+         {  
+            "code":"248",
+            "description":"Antartican"
+         },
+         {  
+            "code":"249",
+            "description":"Antiguan and Barbudan"
+         },
+         {  
+            "code":"25",
+            "description":"Moroccan"
+         },
+         {  
+            "code":"250",
+            "description":"Aruban"
+         },
+         {  
+            "code":"251",
+            "description":"Bermudian"
+         },
+         {  
+            "code":"252",
+            "description":"British Virgin islander"
+         },
+         {  
+            "code":"253",
+            "description":"Caymanian"
+         },
+         {  
+            "code":"255",
+            "description":"Christmas Island Resident"
+         },
+         {  
+            "code":"256",
+            "description":"Cocossian"
+         },
+         {  
+            "code":"257",
+            "description":"Djiboutian"
+         },
+         {  
+            "code":"258",
+            "description":"Dominican (Commonwealth)"
+         },
+         {  
+            "code":"259",
+            "description":"Dominican (republic)"
+         },
+         {  
+            "code":"261",
+            "description":"Falkland Islander"
+         },
+         {  
+            "code":"262",
+            "description":"Faroese"
+         },
+         {  
+            "code":"263",
+            "description":"Finns"
+         },
+         {  
+            "code":"264",
+            "description":"French Polysesian"
+         },
+         {  
+            "code":"265",
+            "description":"Gibraltar"
+         },
+         {  
+            "code":"266",
+            "description":"Greenlander"
+         },
+         {  
+            "code":"267",
+            "description":"Guadeloupean"
+         },
+         {  
+            "code":"268",
+            "description":"Guianese (french)"
+         },
+         {  
+            "code":"269",
+            "description":"Islamic Republic of Iran"
+         },
+         {  
+            "code":"27",
+            "description":"Nepalese"
+         },
+         {  
+            "code":"270",
+            "description":"Jerriais"
+         },
+         {  
+            "code":"271",
+            "description":"Macanese"
+         },
+         {  
+            "code":"272",
+            "description":"Mahoran"
+         },
+         {  
+            "code":"273",
+            "description":"Manx"
+         },
+         {  
+            "code":"274",
+            "description":"Martinique (French)"
+         },
+         {  
+            "code":"275",
+            "description":"Montenegrin"
+         },
+         {  
+            "code":"276",
+            "description":"Montserratian"
+         },
+         {  
+            "code":"277",
+            "description":"New Caledonian"
+         },
+         {  
+            "code":"278",
+            "description":"Niuean"
+         },
+         {  
+            "code":"279",
+            "description":"Norfolk Islander"
+         },
+         {  
+            "code":"28",
+            "description":"New Zealander"
+         },
+         {  
+            "code":"280",
+            "description":"Palestinian"
+         },
+         {  
+            "code":"281",
+            "description":"Pitcairn Islander"
+         },
+         {  
+            "code":"282",
+            "description":"Reunionnais"
+         },
+         {  
+            "code":"283",
+            "description":"Saint Helenian"
+         },
+         {  
+            "code":"284",
+            "description":"Saint-pierrais"
+         },
+         {  
+            "code":"285",
+            "description":"Serb and Montenegrin"
+         },
+         {  
+            "code":"286",
+            "description":"South Georgian"
+         },
+         {  
+            "code":"287",
+            "description":"Southern Terrirories"
+         },
+         {  
+            "code":"288",
+            "description":"Svalbard and Jan Mayen"
+         },
+         {  
+            "code":"289",
+            "description":"Tajik"
+         },
+         {  
+            "code":"29",
+            "description":"Nigerian"
+         },
+         {  
+            "code":"290",
+            "description":"Tokelauan"
+         },
+         {  
+            "code":"291",
+            "description":"Turkmenistan People"
+         },
+         {  
+            "code":"292",
+            "description":"Turks and Caicos Islander"
+         },
+         {  
+            "code":"293",
+            "description":"Vanuatuan"
+         },
+         {  
+            "code":"294",
+            "description":"Vatican"
+         },
+         {  
+            "code":"295",
+            "description":"Vincentian"
+         },
+         {  
+            "code":"296",
+            "description":"Wallisian and Futunan"
+         },
+         {  
+            "code":"297",
+            "description":"Western Saharan or Sahrawi"
+         },
+         {  
+            "code":"3",
+            "description":"Australian"
+         },
+         {  
+            "code":"31",
+            "description":"Pakistani"
+         },
+         {  
+            "code":"32",
+            "description":"Russian"
+         },
+         {  
+            "code":"34",
+            "description":"Singaporean"
+         },
+         {  
+            "code":"36",
+            "description":"Sri Lankan"
+         },
+         {  
+            "code":"37",
+            "description":"Taiwanese"
+         },
+         {  
+            "code":"38",
+            "description":"Thai"
+         },
+         {  
+            "code":"39",
+            "description":"Vietnamese"
+         },
+         {  
+            "code":"4",
+            "description":"British"
+         },
+         {  
+            "code":"43",
+            "description":"Albanian"
+         },
+         {  
+            "code":"44",
+            "description":"Algerian"
+         },
+         {  
+            "code":"45",
+            "description":"Andorran"
+         },
+         {  
+            "code":"46",
+            "description":"Angolan"
+         },
+         {  
+            "code":"47",
+            "description":"Antiguans"
+         },
+         {  
+            "code":"49",
+            "description":"Armenian"
+         },
+         {  
+            "code":"5",
+            "description":"Bruneian"
+         },
+         {  
+            "code":"50",
+            "description":"Austrian"
+         },
+         {  
+            "code":"51",
+            "description":"Azerbaijani"
+         },
+         {  
+            "code":"52",
+            "description":"Bahamian"
+         },
+         {  
+            "code":"53",
+            "description":"Bahraini"
+         },
+         {  
+            "code":"54",
+            "description":"Bangladeshi"
+         },
+         {  
+            "code":"55",
+            "description":"Barbadian"
+         },
+         {  
+            "code":"57",
+            "description":"Batswana"
+         },
+         {  
+            "code":"58",
+            "description":"Belarusian"
+         },
+         {  
+            "code":"59",
+            "description":"Belgian"
+         },
+         {  
+            "code":"60",
+            "description":"Belizean"
+         },
+         {  
+            "code":"61",
+            "description":"Beninese"
+         },
+         {  
+            "code":"62",
+            "description":"Bolivian"
+         },
+         {  
+            "code":"63",
+            "description":"Bosnian"
+         },
+         {  
+            "code":"64",
+            "description":"Brazilian"
+         },
+         {  
+            "code":"65",
+            "description":"Bulgarian"
+         },
+         {  
+            "code":"66",
+            "description":"Burkinabe"
+         },
+         {  
+            "code":"67",
+            "description":"Burmese/Myanmar"
+         },
+         {  
+            "code":"68",
+            "description":"Burundian"
+         },
+         {  
+            "code":"70",
+            "description":"Cambodian"
+         },
+         {  
+            "code":"71",
+            "description":"Cameroonian"
+         },
+         {  
+            "code":"72",
+            "description":"Cape Verdean"
+         },
+         {  
+            "code":"74",
+            "description":"Chadian"
+         },
+         {  
+            "code":"75",
+            "description":"Chilean"
+         },
+         {  
+            "code":"76",
+            "description":"Comorian"
+         },
+         {  
+            "code":"77",
+            "description":"Congolese"
+         },
+         {  
+            "code":"78",
+            "description":"Costa Rican"
+         },
+         {  
+            "code":"79",
+            "description":"Croatian"
+         },
+         {  
+            "code":"8",
+            "description":"Canadian"
+         },
+         {  
+            "code":"80",
+            "description":"Cuban"
+         },
+         {  
+            "code":"81",
+            "description":"Cypriot"
+         },
+         {  
+            "code":"82",
+            "description":"Czech"
+         },
+         {  
+            "code":"84",
+            "description":"Djibouti"
+         },
+         {  
+            "code":"85",
+            "description":"Dominican"
+         },
+         {  
+            "code":"86",
+            "description":"Dutch"
+         },
+         {  
+            "code":"87",
+            "description":"East Timorese"
+         },
+         {  
+            "code":"89",
+            "description":"Egyptian"
+         },
+         {  
+            "code":"9",
+            "description":"Chinese"
+         },
+         {  
+            "code":"91",
+            "description":"Equatorial Guinean"
+         },
+         {  
+            "code":"92",
+            "description":"Eritrean"
+         },
+         {  
+            "code":"93",
+            "description":"Estonian"
+         },
+         {  
+            "code":"94",
+            "description":"Ethiopian"
+         },
+         {  
+            "code":"95",
+            "description":"Fijian"
+         },
+         {  
+            "code":"96",
+            "description":"Finnish"
+         },
+         {  
+            "code":"97",
+            "description":"French"
+         },
+         {  
+            "code":"98",
+            "description":"Gabonese"
+         },
+         {  
+            "code":"99",
+            "description":"Gambian"
+         }
+      ]
+   },
+   {  
+      "referenceType":"NATUREOFBUSINESS",
+      "values":[  
+         {  
+            "code":"1",
+            "description":"ACCOMMODATION"
+         },
+         {  
+            "code":"10",
+            "description":"CREATIVE, ARTS AND ENTERTAINMENT ACTIVITIES"
+         },
+         {  
+            "code":"11",
+            "description":"EDUCATION"
+         },
+         {  
+            "code":"12",
+            "description":"ELECTRICITY, GAS AND AIR-CONDITIONING SUPPLY"
+         },
+         {  
+            "code":"13",
+            "description":"EMPLOYMENT ACTIVITIES"
+         },
+         {  
+            "code":"14",
+            "description":"FINANCIAL AND INSURANCE ACTIVITIES (Please state type of Financial & Insurance Activities)"
+         },
+         {  
+            "code":"15",
+            "description":"FISHING, OPERATION OF FISH HATCHERIES AND FISH FARMS;  SERVICE ACTIVITIES INCIDENTAL TO FISHING"
+         },
+         {  
+            "code":"16",
+            "description":"FOOD AND BEVERAGE SERVICE ACTIVITIES"
+         },
+         {  
+            "code":"17",
+            "description":"FORESTRY, LOGGING AND RELATED SERVICE ACTIVITIES"
+         },
+         {  
+            "code":"18",
+            "description":"GAMBLING AND BETTING ACTIVITIES"
+         },
+         {  
+            "code":"19",
+            "description":"HEALTH SERVICES"
+         },
+         {  
+            "code":"2",
+            "description":"ACCOUNTING, BOOK-KEEPING AND AUDITING ACTIVITIES; TAX CONSULTANCY"
+         },
+         {  
+            "code":"20",
+            "description":"INFORMATION SERVICE ACTIVITIES"
+         },
+         {  
+            "code":"21",
+            "description":"LEGAL ACTIVITIES"
+         },
+         {  
+            "code":"22",
+            "description":"LIBRARIES, ARCHIVES, MUSEUMS AND OTHER CULTURAL ACTIVITIES"
+         },
+         {  
+            "code":"23",
+            "description":"MANUFACTURING (Please state type of manufacturing)"
+         },
+         {  
+            "code":"24",
+            "description":"MATERIALS RECOVERY - Recycling of metal waste and scrap"
+         },
+         {  
+            "code":"25",
+            "description":"MEDICAL AND DENTAL PRACTICE ACTIVITIES"
+         },
+         {  
+            "code":"26",
+            "description":"MINING & QUARRYING"
+         },
+         {  
+            "code":"27",
+            "description":"MINING & QUARRYING (precious metals and precious stones)"
+         },
+         {  
+            "code":"28",
+            "description":"MINING & QUARRYING (stone, sand and clay)"
+         },
+         {  
+            "code":"3",
+            "description":"ADVERTISING AND MARKET RESEARCH"
+         },
+         {  
+            "code":"30",
+            "description":"OFFICE ADMINISTRATIVE, OFFICE SUPPORT AND OTHER BUSINESS SUPPORT ACTIVITIES"
+         },
+         {  
+            "code":"31",
+            "description":"OTHERS (PLEASE FILL IN FREE TEXT)"
+         },
+         {  
+            "code":"33",
+            "description":"PUBLIC ADMINISTRATION AND DEFENCE (Please state type of public administration and defence)"
+         },
+         {  
+            "code":"34",
+            "description":"PUBLISHING ACTIVITIES"
+         },
+         {  
+            "code":"35",
+            "description":"RADIO AND TELEVISION BROADCASTING ACTIVITIES"
+         },
+         {  
+            "code":"36",
+            "description":"REAL ESTATE ACTIVITIES"
+         },
+         {  
+            "code":"37",
+            "description":"RENTAL AND LEASING ACTIVITIES"
+         },
+         {  
+            "code":"38",
+            "description":"RESIDENTIAL CARE SERVICES"
+         },
+         {  
+            "code":"39",
+            "description":"SECURITY AND INVESTIGATION ACTIVITIES"
+         },
+         {  
+            "code":"4",
+            "description":"AGRICULTURE AND RELATED SERVICE ACTIVITIES"
+         },
+         {  
+            "code":"40",
+            "description":"SERVICE ACTIVITIES INCIDENTAL TO OIL AND GAS EXTRACTION "
+         },
+         {  
+            "code":"41",
+            "description":"SHIP BUNKERING"
+         },
+         {  
+            "code":"42",
+            "description":"SHIP CHANDLERS"
+         },
+         {  
+            "code":"43",
+            "description":"SOCIAL SERVICES"
+         },
+         {  
+            "code":"44",
+            "description":"SPORTS ACTIVITIES AND AMUSEMENT AND RECREATION ACTIVITIES"
+         },
+         {  
+            "code":"45",
+            "description":"TELECOMMUNICATIONS"
+         },
+         {  
+            "code":"46",
+            "description":"TRANSPORTATION AND STORAGE (Please state type of Transportation and storage)"
+         },
+         {  
+            "code":"47",
+            "description":"TRAVEL AGENCIES, TOUR OPERATORS AND RESERVATION SERVICE ACTIVITIES"
+         },
+         {  
+            "code":"48",
+            "description":"VETERINARY ACTIVITIES"
+         },
+         {  
+            "code":"49",
+            "description":"WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES"
+         },
+         {  
+            "code":"5",
+            "description":"ARCHITECTURAL AND ENGINEERING ACTIVITIES; TECHNICAL TESTING AND ANALYSIS"
+         },
+         {  
+            "code":"50",
+            "description":"WHOLESALE AND RETAIL TRADE (Please state type of Wholesale or Retail trade)"
+         },
+         {  
+            "code":"6",
+            "description":"CIVIL ENGINEERING"
+         },
+         {  
+            "code":"7",
+            "description":"CLEANING AND LANDSCAPE MAINTENANCE ACTIVITIES"
+         },
+         {  
+            "code":"8",
+            "description":"COMPUTER PROGRAMMING, CONSULTANCY AND RELATED ACTIVITIES"
+         },
+         {  
+            "code":"9",
+            "description":"CONSTRUCTION OF BUILDINGS"
+         }
+      ]
+   },
+   {  
+      "referenceType":"NATUREOFFUND",
+      "values":[  
+         {  
+            "code":"1",
+            "description":"Savings/Allowances"
+         },
+         {  
+            "code":"2",
+            "description":"Inheritance"
+         },
+         {  
+            "code":"3",
+            "description":"Income/Commission"
+         },
+         {  
+            "code":"4",
+            "description":"Premium financing"
+         },
+         {  
+            "code":"5",
+            "description":"Claims proceeds"
+         },
+         {  
+            "code":"6",
+            "description":"Lottery winnings"
+         },
+         {  
+            "code":"7",
+            "description":"Proceeds from sale of property/business"
+         },
+         {  
+            "code":"8",
+            "description":"Others (if Others, fill details in text field)"
+         }
+      ]
+   },
+   {  
+      "referenceType":"NRICTYPE",
+      "values":[  
+         {  
+            "code":"B",
+            "description":"Brunei NRIC"
+         },
+         {  
+            "code":"M",
+            "description":"Malaysian NRIC"
+         },
+         {  
+            "code":"P",
+            "description":"Passport"
+         },
+         {  
+            "code":"S",
+            "description":"Singapore NRIC"
+         }
+      ]
+   },
+   {  
+      "referenceType":"OCCUPATION",
+      "values":[  
+         {  
+            "code":"1",
+            "description":"Accountant"
+         },
+         {  
+            "code":"10",
+            "description":"Advertising manager"
+         },
+         {  
+            "code":"100",
+            "description":"Caretaker"
+         },
+         {  
+            "code":"101",
+            "description":"Carpark worker"
+         },
+         {  
+            "code":"102",
+            "description":"Carpenter (full time employed)"
+         },
+         {  
+            "code":"103",
+            "description":"Cashier (office based)"
+         },
+         {  
+            "code":"104",
+            "description":"Cashier (retail)"
+         },
+         {  
+            "code":"105",
+            "description":"Casino (croupier, cashier, pit manager or supervisor)"
+         },
+         {  
+            "code":"106",
+            "description":"Caterer (self employed)"
+         },
+         {  
+            "code":"107",
+            "description":"Ceiling fitter"
+         },
+         {  
+            "code":"108",
+            "description":"Cement worker"
+         },
+         {  
+            "code":"109",
+            "description":"Ceramic worker"
+         },
+         {  
+            "code":"11",
+            "description":"Advisor"
+         },
+         {  
+            "code":"110",
+            "description":"Chain store manager (with no height involvement)"
+         },
+         {  
+            "code":"111",
+            "description":"Chambermaid"
+         },
+         {  
+            "code":"112",
+            "description":"Chancellor"
+         },
+         {  
+            "code":"113",
+            "description":"Chauffeur"
+         },
+         {  
+            "code":"114",
+            "description":"Chef"
+         },
+         {  
+            "code":"115",
+            "description":"Chemical engineer"
+         },
+         {  
+            "code":"116",
+            "description":"Chemical worker"
+         },
+         {  
+            "code":"117",
+            "description":"Chemist"
+         },
+         {  
+            "code":"118",
+            "description":"Chief executive officer"
+         },
+         {  
+            "code":"119",
+            "description":"Child"
+         },
+         {  
+            "code":"12",
+            "description":"Advocate"
+         },
+         {  
+            "code":"120",
+            "description":"Childcarer (childcare centre)"
+         },
+         {  
+            "code":"121",
+            "description":"Chinese physician (full time employed)"
+         },
+         {  
+            "code":"122",
+            "description":"Chinese physician (self employed)"
+         },
+         {  
+            "code":"123",
+            "description":"Chiropractor"
+         },
+         {  
+            "code":"124",
+            "description":"Choreographer (self employed and freelancer)"
+         },
+         {  
+            "code":"125",
+            "description":"Cinema attendant"
+         },
+         {  
+            "code":"126",
+            "description":"Cinema projectionist"
+         },
+         {  
+            "code":"127",
+            "description":"Civil engineer"
+         },
+         {  
+            "code":"128",
+            "description":"Civil servant (non uniformed with administrative duties only)"
+         },
+         {  
+            "code":"129",
+            "description":"Cleaner (asbestos)"
+         },
+         {  
+            "code":"13",
+            "description":"Aerial erector (with height 15m or more)"
+         },
+         {  
+            "code":"130",
+            "description":"Cleaner (with height involvement)"
+         },
+         {  
+            "code":"131",
+            "description":"Cleaner (with no height involvement)"
+         },
+         {  
+            "code":"132",
+            "description":"Clerical worker"
+         },
+         {  
+            "code":"133",
+            "description":"Clerk (handling goods)"
+         },
+         {  
+            "code":"134",
+            "description":"Coach (badminton)"
+         },
+         {  
+            "code":"135",
+            "description":"Coach (gym personal trainer)"
+         },
+         {  
+            "code":"136",
+            "description":"Coach (soccer)"
+         },
+         {  
+            "code":"137",
+            "description":"Coach (swimming)"
+         },
+         {  
+            "code":"138",
+            "description":"Coach (table tennis)"
+         },
+         {  
+            "code":"139",
+            "description":"Coach (tennis)"
+         },
+         {  
+            "code":"14",
+            "description":"Aerial erector (with height less than 15m)"
+         },
+         {  
+            "code":"140",
+            "description":"Coach/ trainer (yoga, pilates, aerobics)"
+         },
+         {  
+            "code":"141",
+            "description":"Cobbler/ key cutter (full time employed)"
+         },
+         {  
+            "code":"142",
+            "description":"Cobbler/ key cutter (self employed)"
+         },
+         {  
+            "code":"143",
+            "description":"Coffee shop helper"
+         },
+         {  
+            "code":"144",
+            "description":"Columnist (full time employed)"
+         },
+         {  
+            "code":"145",
+            "description":"Commando"
+         },
+         {  
+            "code":"146",
+            "description":"Commercial pilot (international airlines)"
+         },
+         {  
+            "code":"147",
+            "description":"Commercial pilot (private, freight)"
+         },
+         {  
+            "code":"148",
+            "description":"Composer"
+         },
+         {  
+            "code":"149",
+            "description":"Computer shop worker"
+         },
+         {  
+            "code":"15",
+            "description":"Aesthetician (employed)"
+         },
+         {  
+            "code":"150",
+            "description":"Computer system installer"
+         },
+         {  
+            "code":"151",
+            "description":"Computer technician (full time employed)"
+         },
+         {  
+            "code":"152",
+            "description":"Computer technician (self employed)"
+         },
+         {  
+            "code":"153",
+            "description":"Computer/ IT consultant, engineer, programmer, operator"
+         },
+         {  
+            "code":"154",
+            "description":"Concrete erector (with height 15m or more)"
+         },
+         {  
+            "code":"155",
+            "description":"Concrete erector (with height less than 15m)"
+         },
+         {  
+            "code":"156",
+            "description":"Concrete mixer driver"
+         },
+         {  
+            "code":"157",
+            "description":"Construction foreman (with height involvement)"
+         },
+         {  
+            "code":"158",
+            "description":"Construction foreman (with no height involvement)"
+         },
+         {  
+            "code":"159",
+            "description":"Construction worker (with height involvement)"
+         },
+         {  
+            "code":"16",
+            "description":"Aesthetician (self employed/ private practice)"
+         },
+         {  
+            "code":"160",
+            "description":"Construction worker (with no height involvement)"
+         },
+         {  
+            "code":"161",
+            "description":"Container ship / tanker (crew)"
+         },
+         {  
+            "code":"162",
+            "description":"Container ship / tanker (officer)"
+         },
+         {  
+            "code":"163",
+            "description":"Control room operator (emergency services, port)"
+         },
+         {  
+            "code":"164",
+            "description":"Control room operator (oil and gas industry)"
+         },
+         {  
+            "code":"165",
+            "description":"Control room operator (power station)"
+         },
+         {  
+            "code":"166",
+            "description":"Cook"
+         },
+         {  
+            "code":"167",
+            "description":"Cook (ship)"
+         },
+         {  
+            "code":"168",
+            "description":"Copywriter"
+         },
+         {  
+            "code":"169",
+            "description":"Coroner"
+         },
+         {  
+            "code":"17",
+            "description":"Agent (entertainment)"
+         },
+         {  
+            "code":"170",
+            "description":"Counsellor"
+         },
+         {  
+            "code":"171",
+            "description":"Counsellor (self employed)"
+         },
+         {  
+            "code":"172",
+            "description":"Courier/ delivery/ despatch worker"
+         },
+         {  
+            "code":"173",
+            "description":"Courier/ delivery/ despatch worker (motorcycle)"
+         },
+         {  
+            "code":"174",
+            "description":"Court assistant"
+         },
+         {  
+            "code":"175",
+            "description":"Crane operator"
+         },
+         {  
+            "code":"176",
+            "description":"Cruiseliner (crew/ officer)"
+         },
+         {  
+            "code":"177",
+            "description":"Culler (wildlife)"
+         },
+         {  
+            "code":"178",
+            "description":"Curator"
+         },
+         {  
+            "code":"179",
+            "description":"Curtain fitter"
+         },
+         {  
+            "code":"18",
+            "description":"Air conditioning installer"
+         },
+         {  
+            "code":"180",
+            "description":"Customer service worker"
+         },
+         {  
+            "code":"181",
+            "description":"Customs officer"
+         },
+         {  
+            "code":"182",
+            "description":"Customs officer (administrative duties only)"
+         },
+         {  
+            "code":"183",
+            "description":"Cutter (food, drinks)"
+         },
+         {  
+            "code":"184",
+            "description":"Cutter (glass, optical goods industry)"
+         },
+         {  
+            "code":"185",
+            "description":"Cutter (leather, fur, paper, board)"
+         },
+         {  
+            "code":"186",
+            "description":"Cutter machine operator"
+         },
+         {  
+            "code":"187",
+            "description":"Dairy worker"
+         },
+         {  
+            "code":"188",
+            "description":"Dancer (full time employed)"
+         },
+         {  
+            "code":"189",
+            "description":"Dancer (self employed)"
+         },
+         {  
+            "code":"19",
+            "description":"Air steward/ stewardess"
+         },
+         {  
+            "code":"190",
+            "description":"Dancing instructor (full time employed)"
+         },
+         {  
+            "code":"191",
+            "description":"Dancing instructor (self employed)"
+         },
+         {  
+            "code":"192",
+            "description":"Data analyst"
+         },
+         {  
+            "code":"193",
+            "description":"Data controller"
+         },
+         {  
+            "code":"194",
+            "description":"Data processor"
+         },
+         {  
+            "code":"195",
+            "description":"Data warehousing specialist"
+         },
+         {  
+            "code":"196",
+            "description":"Database operator"
+         },
+         {  
+            "code":"197",
+            "description":"Dealer (commodity, derivatives, foreign exchange, futures, money mergers and acquisition)"
+         },
+         {  
+            "code":"198",
+            "description":"Dealer (stock)"
+         },
+         {  
+            "code":"199",
+            "description":"Debt collector"
+         },
+         {  
+            "code":"2",
+            "description":"Actor/ actress (no stunt involved)"
+         },
+         {  
+            "code":"20",
+            "description":"Air traffic controller"
+         },
+         {  
+            "code":"200",
+            "description":"Decorator worker (full time employed)"
+         },
+         {  
+            "code":"201",
+            "description":"Demolition worker"
+         },
+         {  
+            "code":"202",
+            "description":"Dental nurse"
+         },
+         {  
+            "code":"203",
+            "description":"Dental surgeon"
+         },
+         {  
+            "code":"204",
+            "description":"Dental therapist"
+         },
+         {  
+            "code":"205",
+            "description":"Dentist (full time employed)"
+         },
+         {  
+            "code":"206",
+            "description":"Dentist (self employed)"
+         },
+         {  
+            "code":"207",
+            "description":"Design engineer"
+         },
+         {  
+            "code":"208",
+            "description":"Design engineer 100% admin only) (administrative duties only)"
+         },
+         {  
+            "code":"209",
+            "description":"Designer (fashion industry) - full time employed"
+         },
+         {  
+            "code":"21",
+            "description":"Aircraft (loader/ bag handler)"
+         },
+         {  
+            "code":"210",
+            "description":"Designer (graphic, internet, website)"
+         },
+         {  
+            "code":"211",
+            "description":"Designer (self employed)"
+         },
+         {  
+            "code":"212",
+            "description":"Diamond cutter, cleaner, polisher, sawyer/ setter"
+         },
+         {  
+            "code":"213",
+            "description":"Dietician"
+         },
+         {  
+            "code":"214",
+            "description":"Director (full time employed with administrative duties only)"
+         },
+         {  
+            "code":"215",
+            "description":"Director (self employed)"
+         },
+         {  
+            "code":"216",
+            "description":"Disc jockey"
+         },
+         {  
+            "code":"217",
+            "description":"Dispenser"
+         },
+         {  
+            "code":"218",
+            "description":"Diver"
+         },
+         {  
+            "code":"219",
+            "description":"Docker/ dock worker"
+         },
+         {  
+            "code":"22",
+            "description":"Aircraft assembler"
+         },
+         {  
+            "code":"220",
+            "description":"Doctor (except those in mental hospital)"
+         },
+         {  
+            "code":"221",
+            "description":"Doctor (mental hospital)"
+         },
+         {  
+            "code":"222",
+            "description":"Doctor (self employed)"
+         },
+         {  
+            "code":"223",
+            "description":"Domestic servant"
+         },
+         {  
+            "code":"224",
+            "description":"Draughtsman"
+         },
+         {  
+            "code":"225",
+            "description":"Dressmaker (full time employed)"
+         },
+         {  
+            "code":"226",
+            "description":"Dressmaker (self employed)"
+         },
+         {  
+            "code":"227",
+            "description":"Driver (ambulance)"
+         },
+         {  
+            "code":"228",
+            "description":"Driver (bulldozer)"
+         },
+         {  
+            "code":"229",
+            "description":"Driver (bus) - full time employed"
+         },
+         {  
+            "code":"23",
+            "description":"Aircraft designer"
+         },
+         {  
+            "code":"230",
+            "description":"Driver (bus) - self employed"
+         },
+         {  
+            "code":"231",
+            "description":"Driver (excavator)"
+         },
+         {  
+            "code":"232",
+            "description":"Driver (fork lift)"
+         },
+         {  
+            "code":"233",
+            "description":"Driver (Mass Rapid Transport)"
+         },
+         {  
+            "code":"234",
+            "description":"Driver (taxi)"
+         },
+         {  
+            "code":"235",
+            "description":"Driver (tower crane)"
+         },
+         {  
+            "code":"236",
+            "description":"Driver (truck/ tow truck)"
+         },
+         {  
+            "code":"237",
+            "description":"Driver (van)"
+         },
+         {  
+            "code":"238",
+            "description":"Driving examiner"
+         },
+         {  
+            "code":"239",
+            "description":"Driving instructor (full time employed)"
+         },
+         {  
+            "code":"24",
+            "description":"Aircraft engineer"
+         },
+         {  
+            "code":"240",
+            "description":"Driving instructor (self employed)"
+         },
+         {  
+            "code":"241",
+            "description":"Dry cleaner"
+         },
+         {  
+            "code":"242",
+            "description":"Dye worker"
+         },
+         {  
+            "code":"243",
+            "description":"Electrical technician (ship building, marine engineering)"
+         },
+         {  
+            "code":"244",
+            "description":"Electrical engineer (onshore)"
+         },
+         {  
+            "code":"245",
+            "description":"Electrical goods assembler"
+         },
+         {  
+            "code":"246",
+            "description":"Electrical technician (oil, natural gas, quarry industry)"
+         },
+         {  
+            "code":"247",
+            "description":"Electrician (full time employed)"
+         },
+         {  
+            "code":"248",
+            "description":"Electrician (self employed)"
+         },
+         {  
+            "code":"249",
+            "description":"Embalmer (full time employed)"
+         },
+         {  
+            "code":"25",
+            "description":"Aircraft mechanic"
+         },
+         {  
+            "code":"250",
+            "description":"Embalmer (self employed)"
+         },
+         {  
+            "code":"251",
+            "description":"Engineer officer"
+         },
+         {  
+            "code":"252",
+            "description":"Engineer officer (merchant marine, oil, natural gas industry)"
+         },
+         {  
+            "code":"253",
+            "description":"Engraver"
+         },
+         {  
+            "code":"254",
+            "description":"Entertainer"
+         },
+         {  
+            "code":"255",
+            "description":"Events planner (full time employed)"
+         },
+         {  
+            "code":"256",
+            "description":"Events planner (self employed)"
+         },
+         {  
+            "code":"257",
+            "description":"Executive (administrative)"
+         },
+         {  
+            "code":"258",
+            "description":"Executive director (full time employed with administrative duties only)"
+         },
+         {  
+            "code":"259",
+            "description":"Executive director (self employed)"
+         },
+         {  
+            "code":"26",
+            "description":"Aircraft technician"
+         },
+         {  
+            "code":"260",
+            "description":"Exhibition coordinator"
+         },
+         {  
+            "code":"261",
+            "description":"Exhibition organiser (full time employed)"
+         },
+         {  
+            "code":"262",
+            "description":"Exhibition organiser (self employed)"
+         },
+         {  
+            "code":"263",
+            "description":"Explosive worker"
+         },
+         {  
+            "code":"264",
+            "description":"Farm assistant (administrative duties only)"
+         },
+         {  
+            "code":"265",
+            "description":"Farmer (crocodile farm)"
+         },
+         {  
+            "code":"266",
+            "description":"Farmer (with manual duties)"
+         },
+         {  
+            "code":"267",
+            "description":"Farmer (with no manual duties)"
+         },
+         {  
+            "code":"268",
+            "description":"Film critic"
+         },
+         {  
+            "code":"269",
+            "description":"Film developer"
+         },
+         {  
+            "code":"27",
+            "description":"Aircrew (airforce)"
+         },
+         {  
+            "code":"270",
+            "description":"Film director/ producer (full time employed)"
+         },
+         {  
+            "code":"271",
+            "description":"Film director/ producer (self employed)"
+         },
+         {  
+            "code":"272",
+            "description":"Film editor (full time employed)"
+         },
+         {  
+            "code":"273",
+            "description":"Film editor (self employed)"
+         },
+         {  
+            "code":"274",
+            "description":"Finance administrator"
+         },
+         {  
+            "code":"275",
+            "description":"Fireman"
+         },
+         {  
+            "code":"276",
+            "description":"Fish farmer (full time employed)"
+         },
+         {  
+            "code":"277",
+            "description":"Fish farmer (self employed)"
+         },
+         {  
+            "code":"278",
+            "description":"Fisherman"
+         },
+         {  
+            "code":"279",
+            "description":"Fishmonger"
+         },
+         {  
+            "code":"28",
+            "description":"Airport operation manager (administrative duties only)"
+         },
+         {  
+            "code":"280",
+            "description":"Fitter (marine)"
+         },
+         {  
+            "code":"281",
+            "description":"Fitter (shipyard)"
+         },
+         {  
+            "code":"282",
+            "description":"Floor layer"
+         },
+         {  
+            "code":"283",
+            "description":"Florist (full time employed)"
+         },
+         {  
+            "code":"284",
+            "description":"Florist (self employed)"
+         },
+         {  
+            "code":"285",
+            "description":"Food preparation worker (catering)"
+         },
+         {  
+            "code":"286",
+            "description":"Foreman/ supervisor (dock/ shipyard) - no height involvement"
+         },
+         {  
+            "code":"287",
+            "description":"Fortune teller"
+         },
+         {  
+            "code":"288",
+            "description":"Freezer worker"
+         },
+         {  
+            "code":"289",
+            "description":"Fruit seller (full time employed)"
+         },
+         {  
+            "code":"29",
+            "description":"Ambassador"
+         },
+         {  
+            "code":"290",
+            "description":"Fruit seller (self employed)"
+         },
+         {  
+            "code":"291",
+            "description":"Fuel technician (oil/ gas rigs)"
+         },
+         {  
+            "code":"292",
+            "description":"Fund manager"
+         },
+         {  
+            "code":"293",
+            "description":"Funeral consultant (full time employed)"
+         },
+         {  
+            "code":"294",
+            "description":"Funeral undertaker (full time employed)"
+         },
+         {  
+            "code":"295",
+            "description":"Furniture mover/ packer"
+         },
+         {  
+            "code":"296",
+            "description":"Gardener"
+         },
+         {  
+            "code":"297",
+            "description":"Geologist"
+         },
+         {  
+            "code":"298",
+            "description":"Glass decorator"
+         },
+         {  
+            "code":"299",
+            "description":"Glass finisher"
+         },
+         {  
+            "code":"3",
+            "description":"Actor/ actress (with stunt involved)"
+         },
+         {  
+            "code":"30",
+            "description":"Ambulance officer (administrative duties only)"
+         },
+         {  
+            "code":"300",
+            "description":"Glass heat tester"
+         },
+         {  
+            "code":"301",
+            "description":"Goldsmith"
+         },
+         {  
+            "code":"302",
+            "description":"Golf caddie"
+         },
+         {  
+            "code":"303",
+            "description":"Greengrocer"
+         },
+         {  
+            "code":"304",
+            "description":"Gynaecologist (no surgery involved)"
+         },
+         {  
+            "code":"305",
+            "description":"Gynaecologist (surgery involved)"
+         },
+         {  
+            "code":"306",
+            "description":"Hairdresser/ hair stylist (full time employed)"
+         },
+         {  
+            "code":"307",
+            "description":"Hairdresser/ hair stylist (self employed)"
+         },
+         {  
+            "code":"308",
+            "description":"Hatchery worker"
+         },
+         {  
+            "code":"309",
+            "description":"Hawker/ hawker assistant"
+         },
+         {  
+            "code":"31",
+            "description":"Anaesthetist (employed)"
+         },
+         {  
+            "code":"310",
+            "description":"Hoist operator"
+         },
+         {  
+            "code":"311",
+            "description":"Horticulturalist"
+         },
+         {  
+            "code":"312",
+            "description":"Hostel manager"
+         },
+         {  
+            "code":"313",
+            "description":"Hotel manager"
+         },
+         {  
+            "code":"314",
+            "description":"Hotel manager (administrative duties only with no shift work)"
+         },
+         {  
+            "code":"315",
+            "description":"Housekeeper"
+         },
+         {  
+            "code":"316",
+            "description":"Housemaid"
+         },
+         {  
+            "code":"317",
+            "description":"Housewife"
+         },
+         {  
+            "code":"318",
+            "description":"Immigration officer"
+         },
+         {  
+            "code":"319",
+            "description":"Incinerator plant operator"
+         },
+         {  
+            "code":"32",
+            "description":"Anaesthetist (self employed)"
+         },
+         {  
+            "code":"320",
+            "description":"Inspector (brick, glass, metal, pipe, tile manufacture)"
+         },
+         {  
+            "code":"321",
+            "description":"Inspector (chemical, plastics, water supply)"
+         },
+         {  
+            "code":"322",
+            "description":"Inspector (dry cleaning, laundry)"
+         },
+         {  
+            "code":"323",
+            "description":"Inspector (electrical supply, gas installation)"
+         },
+         {  
+            "code":"324",
+            "description":"Inspector (electronic goods)"
+         },
+         {  
+            "code":"325",
+            "description":"Inspector (food, drinks, tobacco)"
+         },
+         {  
+            "code":"326",
+            "description":"Inspector (leather, fur)"
+         },
+         {  
+            "code":"327",
+            "description":"Inspector (motor vehicle, railway track)"
+         },
+         {  
+            "code":"328",
+            "description":"Inspector (oil and natural gas)"
+         },
+         {  
+            "code":"329",
+            "description":"Inspector (optical goods, paper and board)"
+         },
+         {  
+            "code":"33",
+            "description":"Analyst"
+         },
+         {  
+            "code":"330",
+            "description":"Inspector (pottery, rubber, textile)"
+         },
+         {  
+            "code":"331",
+            "description":"Insurance agent (GE)"
+         },
+         {  
+            "code":"332",
+            "description":"Insurance agent (other insurers)"
+         },
+         {  
+            "code":"333",
+            "description":"Interior decorator"
+         },
+         {  
+            "code":"334",
+            "description":"Interpreter (no overseas assignment)"
+         },
+         {  
+            "code":"335",
+            "description":"Interpreter (overseas assignment)"
+         },
+         {  
+            "code":"336",
+            "description":"Investment banking - office manager, financial analyst, trading support (administrative duties only)"
+         },
+         {  
+            "code":"337",
+            "description":"Janitor"
+         },
+         {  
+            "code":"338",
+            "description":"Jewellery designer (full time employed)"
+         },
+         {  
+            "code":"339",
+            "description":"Jewellery designer (self employed)"
+         },
+         {  
+            "code":"34",
+            "description":"Animal trainer"
+         },
+         {  
+            "code":"340",
+            "description":"Jewellery enameller/ mounter"
+         },
+         {  
+            "code":"341",
+            "description":"Jewellery engraver"
+         },
+         {  
+            "code":"342",
+            "description":"Jewellery repairer"
+         },
+         {  
+            "code":"343",
+            "description":"Jockey"
+         },
+         {  
+            "code":"344",
+            "description":"Journalist (no overseas assignment)"
+         },
+         {  
+            "code":"345",
+            "description":"Journalist (overseas assignment)"
+         },
+         {  
+            "code":"346",
+            "description":"Judge"
+         },
+         {  
+            "code":"347",
+            "description":"Karaoke host"
+         },
+         {  
+            "code":"348",
+            "description":"Karaoke lounge manager"
+         },
+         {  
+            "code":"349",
+            "description":"Kitchen assistant/ helper"
+         },
+         {  
+            "code":"35",
+            "description":"Animal trainer (dog/ horses)"
+         },
+         {  
+            "code":"350",
+            "description":"Kitchen supervisor"
+         },
+         {  
+            "code":"351",
+            "description":"Laboratory assistant"
+         },
+         {  
+            "code":"352",
+            "description":"Laboratory engineer"
+         },
+         {  
+            "code":"353",
+            "description":"Laboratory manager (supervisory and testing duties)"
+         },
+         {  
+            "code":"354",
+            "description":"Laboratory technologist/ technician"
+         },
+         {  
+            "code":"355",
+            "description":"Labourer (general)"
+         },
+         {  
+            "code":"356",
+            "description":"Landscape architect"
+         },
+         {  
+            "code":"357",
+            "description":"Landscape artist/ designer"
+         },
+         {  
+            "code":"358",
+            "description":"Language therapist"
+         },
+         {  
+            "code":"359",
+            "description":"Laundryman (full time employed)"
+         },
+         {  
+            "code":"36",
+            "description":"Animal welfare officer (administrative duties only)"
+         },
+         {  
+            "code":"360",
+            "description":"Laundryman (self employed)"
+         },
+         {  
+            "code":"361",
+            "description":"Lawyer (full time employed)"
+         },
+         {  
+            "code":"362",
+            "description":"Lawyer (self employed)"
+         },
+         {  
+            "code":"363",
+            "description":"Lecturer"
+         },
+         {  
+            "code":"364",
+            "description":"Legal personnel"
+         },
+         {  
+            "code":"365",
+            "description":"Legal secretary"
+         },
+         {  
+            "code":"366",
+            "description":"Librarian"
+         },
+         {  
+            "code":"367",
+            "description":"Life guard"
+         },
+         {  
+            "code":"368",
+            "description":"Lift engineer"
+         },
+         {  
+            "code":"369",
+            "description":"Lift maintenance personnel"
+         },
+         {  
+            "code":"37",
+            "description":"Animator (administrative duties only)"
+         },
+         {  
+            "code":"370",
+            "description":"Lift worker"
+         },
+         {  
+            "code":"371",
+            "description":"Lighting technician (full time employed)"
+         },
+         {  
+            "code":"372",
+            "description":"Lighting technician (self employed)"
+         },
+         {  
+            "code":"373",
+            "description":"Lithographic assistant"
+         },
+         {  
+            "code":"374",
+            "description":"Lithographic plate grainer"
+         },
+         {  
+            "code":"375",
+            "description":"Lithographic preparer"
+         },
+         {  
+            "code":"376",
+            "description":"Loader (lorry, truck, boat)"
+         },
+         {  
+            "code":"377",
+            "description":"Locksmith (full time employed)"
+         },
+         {  
+            "code":"378",
+            "description":"Locksmith (self employed)"
+         },
+         {  
+            "code":"379",
+            "description":"Logging constructor"
+         },
+         {  
+            "code":"38",
+            "description":"Architect (full time employed)"
+         },
+         {  
+            "code":"380",
+            "description":"Logistics and procurement officer"
+         },
+         {  
+            "code":"381",
+            "description":"Logistics clerk (administrative duties only)"
+         },
+         {  
+            "code":"382",
+            "description":"Logistics supervisor"
+         },
+         {  
+            "code":"383",
+            "description":"Lorry attendant"
+         },
+         {  
+            "code":"384",
+            "description":"Lorry driver (full time employed)"
+         },
+         {  
+            "code":"385",
+            "description":"Lorry driver (self employed)"
+         },
+         {  
+            "code":"386",
+            "description":"Loss adjuster"
+         },
+         {  
+            "code":"387",
+            "description":"Lounge hostess"
+         },
+         {  
+            "code":"388",
+            "description":"Lounge manager"
+         },
+         {  
+            "code":"389",
+            "description":"Luggage porter"
+         },
+         {  
+            "code":"39",
+            "description":"Architect (self employed)"
+         },
+         {  
+            "code":"390",
+            "description":"Lumberjack"
+         },
+         {  
+            "code":"391",
+            "description":"Machine embroiderer (labeller)"
+         },
+         {  
+            "code":"392",
+            "description":"Machine fitter"
+         },
+         {  
+            "code":"393",
+            "description":"Machine operator (asbestos)"
+         },
+         {  
+            "code":"394",
+            "description":"Machine operator/ technician"
+         },
+         {  
+            "code":"395",
+            "description":"Machinery tool engineer"
+         },
+         {  
+            "code":"396",
+            "description":"Machinist"
+         },
+         {  
+            "code":"397",
+            "description":"Magazine editor"
+         },
+         {  
+            "code":"398",
+            "description":"Magician"
+         },
+         {  
+            "code":"399",
+            "description":"Magistrate"
+         },
+         {  
+            "code":"4",
+            "description":"Actuary"
+         },
+         {  
+            "code":"40",
+            "description":"Armed forces (with hazardous activities)"
+         },
+         {  
+            "code":"400",
+            "description":"Maintenance engineer (aircraft, telecommunication, commercial real estate, onshore marine)"
+         },
+         {  
+            "code":"401",
+            "description":"Maintenance engineer (oil and gas)"
+         },
+         {  
+            "code":"402",
+            "description":"Makeup artist (full time employed)"
+         },
+         {  
+            "code":"403",
+            "description":"Makeup artist (self employed)"
+         },
+         {  
+            "code":"404",
+            "description":"Management consultant (full time employed)"
+         },
+         {  
+            "code":"405",
+            "description":"Management consultant (self employed)"
+         },
+         {  
+            "code":"406",
+            "description":"Management personnel"
+         },
+         {  
+            "code":"407",
+            "description":"Management trainee"
+         },
+         {  
+            "code":"408",
+            "description":"Manager (administrative duties only)"
+         },
+         {  
+            "code":"409",
+            "description":"Manicurist/ pedicurist (full time employed)"
+         },
+         {  
+            "code":"41",
+            "description":"Armed forces (without hazardous activities)"
+         },
+         {  
+            "code":"410",
+            "description":"Manicurist/ pedicurist (self employed)"
+         },
+         {  
+            "code":"411",
+            "description":"Marine electrical engineer (oil and gas)"
+         },
+         {  
+            "code":"412",
+            "description":"Marine electrical/ mechanical engineer (onshore)"
+         },
+         {  
+            "code":"413",
+            "description":"Marine engineer (onshore)"
+         },
+         {  
+            "code":"414",
+            "description":"Marine engineering draftsman (onshore)"
+         },
+         {  
+            "code":"415",
+            "description":"Marine engineering technician (onshore)"
+         },
+         {  
+            "code":"416",
+            "description":"Marine inspector engineer (onshore)"
+         },
+         {  
+            "code":"417",
+            "description":"Marine pilot (outside singapore waters)"
+         },
+         {  
+            "code":"418",
+            "description":"Marine pilot (within singapore waters)"
+         },
+         {  
+            "code":"419",
+            "description":"Market research analyst"
+         },
+         {  
+            "code":"42",
+            "description":"Art/ antique dealer (full time employed)"
+         },
+         {  
+            "code":"420",
+            "description":"Market research interviewer"
+         },
+         {  
+            "code":"421",
+            "description":"Marketing officer"
+         },
+         {  
+            "code":"422",
+            "description":"Martial arts instructor"
+         },
+         {  
+            "code":"423",
+            "description":"Masseur"
+         },
+         {  
+            "code":"424",
+            "description":"Masseuse"
+         },
+         {  
+            "code":"425",
+            "description":"Mechanic (motor vehicle)"
+         },
+         {  
+            "code":"426",
+            "description":"Mechanic (ship) - onshore"
+         },
+         {  
+            "code":"427",
+            "description":"Mechanical engineer (non oil and gas industry)"
+         },
+         {  
+            "code":"428",
+            "description":"Medical consultant (full time employed)"
+         },
+         {  
+            "code":"429",
+            "description":"Medical consultant (self employed)"
+         },
+         {  
+            "code":"43",
+            "description":"Art/ antique dealer (self employed)"
+         },
+         {  
+            "code":"430",
+            "description":"Medium"
+         },
+         {  
+            "code":"431",
+            "description":"Messenger (office based)"
+         },
+         {  
+            "code":"432",
+            "description":"Metal polisher"
+         },
+         {  
+            "code":"433",
+            "description":"Metal worker"
+         },
+         {  
+            "code":"434",
+            "description":"Meter reader"
+         },
+         {  
+            "code":"435",
+            "description":"Midwife"
+         },
+         {  
+            "code":"436",
+            "description":"Model"
+         },
+         {  
+            "code":"437",
+            "description":"Modelling agency manager"
+         },
+         {  
+            "code":"438",
+            "description":"Money changer"
+         },
+         {  
+            "code":"439",
+            "description":"Money lender"
+         },
+         {  
+            "code":"44",
+            "description":"Artist (full time employed)"
+         },
+         {  
+            "code":"440",
+            "description":"Monk"
+         },
+         {  
+            "code":"441",
+            "description":"Mortuary worker"
+         },
+         {  
+            "code":"442",
+            "description":"Motor technician"
+         },
+         {  
+            "code":"443",
+            "description":"Motor vehicle technician"
+         },
+         {  
+            "code":"444",
+            "description":"Moulder"
+         },
+         {  
+            "code":"445",
+            "description":"Mountaineer"
+         },
+         {  
+            "code":"446",
+            "description":"MRT station (office staff personnel)"
+         },
+         {  
+            "code":"447",
+            "description":"MRT station master"
+         },
+         {  
+            "code":"448",
+            "description":"Museum attendant"
+         },
+         {  
+            "code":"449",
+            "description":"Museum curator"
+         },
+         {  
+            "code":"45",
+            "description":"Artist (self employed)"
+         },
+         {  
+            "code":"450",
+            "description":"Museum guide"
+         },
+         {  
+            "code":"451",
+            "description":"Music producer (full time employed with administrative duties only)"
+         },
+         {  
+            "code":"452",
+            "description":"Music teacher (full time employed)"
+         },
+         {  
+            "code":"453",
+            "description":"Music teacher (self employed)"
+         },
+         {  
+            "code":"454",
+            "description":"Music therapist (full time employed)"
+         },
+         {  
+            "code":"455",
+            "description":"Music therapist (self employed)"
+         },
+         {  
+            "code":"456",
+            "description":"Musical instrument assembler/ repairer/ tuner (full time employed)"
+         },
+         {  
+            "code":"457",
+            "description":"Musical instrument assembler/ repairer/ tuner (self employed)"
+         },
+         {  
+            "code":"458",
+            "description":"Musician (classical and orchestra)"
+         },
+         {  
+            "code":"459",
+            "description":"Musician (jazz and pop)"
+         },
+         {  
+            "code":"46",
+            "description":"Auctioneer"
+         },
+         {  
+            "code":"460",
+            "description":"National serviceman"
+         },
+         {  
+            "code":"461",
+            "description":"Navy police officer"
+         },
+         {  
+            "code":"462",
+            "description":"News photographer (no overseas assignment)"
+         },
+         {  
+            "code":"463",
+            "description":"News photographer (overseas assignment)"
+         },
+         {  
+            "code":"464",
+            "description":"Newspaper editor"
+         },
+         {  
+            "code":"465",
+            "description":"Newsvendor"
+         },
+         {  
+            "code":"466",
+            "description":"Night club manager"
+         },
+         {  
+            "code":"467",
+            "description":"Night watchman"
+         },
+         {  
+            "code":"468",
+            "description":"Nun"
+         },
+         {  
+            "code":"469",
+            "description":"Nurse"
+         },
+         {  
+            "code":"47",
+            "description":"Auditor"
+         },
+         {  
+            "code":"470",
+            "description":"Nurseryman"
+         },
+         {  
+            "code":"471",
+            "description":"Occupational therapist"
+         },
+         {  
+            "code":"472",
+            "description":"Odd job worker"
+         },
+         {  
+            "code":"473",
+            "description":"Office boy"
+         },
+         {  
+            "code":"474",
+            "description":"Office cleaner"
+         },
+         {  
+            "code":"475",
+            "description":"Office messenger"
+         },
+         {  
+            "code":"476",
+            "description":"Oil rig consultant"
+         },
+         {  
+            "code":"477",
+            "description":"Oil rig engineer"
+         },
+         {  
+            "code":"478",
+            "description":"Oil rig salesperson"
+         },
+         {  
+            "code":"479",
+            "description":"Oil rig trainer/ instructor"
+         },
+         {  
+            "code":"48",
+            "description":"Author"
+         },
+         {  
+            "code":"480",
+            "description":"Oil rig worker"
+         },
+         {  
+            "code":"481",
+            "description":"Optician"
+         },
+         {  
+            "code":"482",
+            "description":"Optometrist"
+         },
+         {  
+            "code":"483",
+            "description":"Orchestra conductor (full time employed)"
+         },
+         {  
+            "code":"484",
+            "description":"Outward bound trainer/ teacher"
+         },
+         {  
+            "code":"485",
+            "description":"Packer (asbestos, car engines, pottery, textiles, tobacco, woodworking)"
+         },
+         {  
+            "code":"486",
+            "description":"Packer (chemical, plastic, food, drink, glass, glass fibre, precision instrument)"
+         },
+         {  
+            "code":"487",
+            "description":"Packer (mining)"
+         },
+         {  
+            "code":"488",
+            "description":"Painter (coach/ spray)"
+         },
+         {  
+            "code":"489",
+            "description":"Painter (exterior with height 15m and more)"
+         },
+         {  
+            "code":"49",
+            "description":"Baby sitter"
+         },
+         {  
+            "code":"490",
+            "description":"Painter (exterior with height less than 15m)"
+         },
+         {  
+            "code":"491",
+            "description":"Painter (interior)"
+         },
+         {  
+            "code":"492",
+            "description":"Painter (ship building and marine engineering)"
+         },
+         {  
+            "code":"493",
+            "description":"Painter (woodworking)"
+         },
+         {  
+            "code":"494",
+            "description":"Painter/ artist"
+         },
+         {  
+            "code":"495",
+            "description":"Panel beater"
+         },
+         {  
+            "code":"496",
+            "description":"Paper maker"
+         },
+         {  
+            "code":"497",
+            "description":"Parachutist"
+         },
+         {  
+            "code":"498",
+            "description":"Paramedic"
+         },
+         {  
+            "code":"499",
+            "description":"Park keeper"
+         },
+         {  
+            "code":"5",
+            "description":"Acupuncturist (full time employed)"
+         },
+         {  
+            "code":"50",
+            "description":"Baker"
+         },
+         {  
+            "code":"500",
+            "description":"Pastor"
+         },
+         {  
+            "code":"501",
+            "description":"Pattern maker"
+         },
+         {  
+            "code":"502",
+            "description":"Personal assistant"
+         },
+         {  
+            "code":"503",
+            "description":"Personnel officer"
+         },
+         {  
+            "code":"504",
+            "description":"Pest control worker"
+         },
+         {  
+            "code":"505",
+            "description":"Pet breeder"
+         },
+         {  
+            "code":"506",
+            "description":"Pet groomer"
+         },
+         {  
+            "code":"507",
+            "description":"Petrol station attendant"
+         },
+         {  
+            "code":"508",
+            "description":"Pharmacist"
+         },
+         {  
+            "code":"509",
+            "description":"Photographer (self employed)"
+         },
+         {  
+            "code":"51",
+            "description":"Bank cashier"
+         },
+         {  
+            "code":"510",
+            "description":"Photographer (full time employed with no overseas assignment)"
+         },
+         {  
+            "code":"511",
+            "description":"Photographer (full time employed with overseas assignment)"
+         },
+         {  
+            "code":"512",
+            "description":"Physician (full time employed)"
+         },
+         {  
+            "code":"513",
+            "description":"Physician (self employed)"
+         },
+         {  
+            "code":"514",
+            "description":"Physiotherapist"
+         },
+         {  
+            "code":"515",
+            "description":"Piano teacher (full time employed)"
+         },
+         {  
+            "code":"516",
+            "description":"Piano teacher (self employed)"
+         },
+         {  
+            "code":"517",
+            "description":"Pilot (armed forces)"
+         },
+         {  
+            "code":"518",
+            "description":"Pipe fitter (onshore)"
+         },
+         {  
+            "code":"519",
+            "description":"Planning officer"
+         },
+         {  
+            "code":"52",
+            "description":"Bank clerk"
+         },
+         {  
+            "code":"520",
+            "description":"Plasterer"
+         },
+         {  
+            "code":"521",
+            "description":"Plumber"
+         },
+         {  
+            "code":"522",
+            "description":"Police inspector"
+         },
+         {  
+            "code":"523",
+            "description":"Police officer"
+         },
+         {  
+            "code":"524",
+            "description":"Police sergeant"
+         },
+         {  
+            "code":"525",
+            "description":"Policeman"
+         },
+         {  
+            "code":"526",
+            "description":"Politician"
+         },
+         {  
+            "code":"527",
+            "description":"Postman"
+         },
+         {  
+            "code":"528",
+            "description":"Pottery worker"
+         },
+         {  
+            "code":"529",
+            "description":"Power station worker"
+         },
+         {  
+            "code":"53",
+            "description":"Bank manager"
+         },
+         {  
+            "code":"530",
+            "description":"Priest"
+         },
+         {  
+            "code":"531",
+            "description":"Principal"
+         },
+         {  
+            "code":"532",
+            "description":"Prison officer"
+         },
+         {  
+            "code":"533",
+            "description":"Prison officer (superintendent)"
+         },
+         {  
+            "code":"534",
+            "description":"Private detective"
+         },
+         {  
+            "code":"535",
+            "description":"Probation officer"
+         },
+         {  
+            "code":"536",
+            "description":"Production operator"
+         },
+         {  
+            "code":"537",
+            "description":"Production worker"
+         },
+         {  
+            "code":"538",
+            "description":"Professor"
+         },
+         {  
+            "code":"539",
+            "description":"Project manager (construction)"
+         },
+         {  
+            "code":"54",
+            "description":"Bank officer"
+         },
+         {  
+            "code":"540",
+            "description":"Property agent"
+         },
+         {  
+            "code":"541",
+            "description":"Propman"
+         },
+         {  
+            "code":"542",
+            "description":"Proprietor"
+         },
+         {  
+            "code":"543",
+            "description":"Psychologist (full time employed)"
+         },
+         {  
+            "code":"544",
+            "description":"Psychologist (self employed)"
+         },
+         {  
+            "code":"545",
+            "description":"Public relations officer"
+         },
+         {  
+            "code":"546",
+            "description":"Public relations officer (entertainment)"
+         },
+         {  
+            "code":"547",
+            "description":"Publisher"
+         },
+         {  
+            "code":"548",
+            "description":"Purchaser"
+         },
+         {  
+            "code":"549",
+            "description":"Quality control officer"
+         },
+         {  
+            "code":"55",
+            "description":"Bank teller"
+         },
+         {  
+            "code":"550",
+            "description":"Quarry worker"
+         },
+         {  
+            "code":"551",
+            "description":"Racehorse trainer"
+         },
+         {  
+            "code":"552",
+            "description":"Radio presenter"
+         },
+         {  
+            "code":"553",
+            "description":"Radio technician (no aerial work)"
+         },
+         {  
+            "code":"554",
+            "description":"Radiographer"
+         },
+         {  
+            "code":"555",
+            "description":"Radiologist (full time employed)"
+         },
+         {  
+            "code":"556",
+            "description":"Rag and bone dealer"
+         },
+         {  
+            "code":"557",
+            "description":"Railway worker"
+         },
+         {  
+            "code":"558",
+            "description":"Ranger"
+         },
+         {  
+            "code":"559",
+            "description":"Real estate agent"
+         },
+         {  
+            "code":"56",
+            "description":"Banker (exclude trading)"
+         },
+         {  
+            "code":"560",
+            "description":"Receptionist"
+         },
+         {  
+            "code":"561",
+            "description":"Referee"
+         },
+         {  
+            "code":"562",
+            "description":"Refuse collector"
+         },
+         {  
+            "code":"563",
+            "description":"Registrar"
+         },
+         {  
+            "code":"564",
+            "description":"Religious preacher (full time employed)"
+         },
+         {  
+            "code":"565",
+            "description":"Remisier"
+         },
+         {  
+            "code":"566",
+            "description":"Renovation contractor (self employed)"
+         },
+         {  
+            "code":"567",
+            "description":"Renovation supervisor"
+         },
+         {  
+            "code":"568",
+            "description":"Renovation worker"
+         },
+         {  
+            "code":"569",
+            "description":"Researcher (administrative duties only)"
+         },
+         {  
+            "code":"57",
+            "description":"Bar manager"
+         },
+         {  
+            "code":"570",
+            "description":"Reservoir worker"
+         },
+         {  
+            "code":"571",
+            "description":"Retiree"
+         },
+         {  
+            "code":"572",
+            "description":"Road safety officer"
+         },
+         {  
+            "code":"573",
+            "description":"Road sweeper"
+         },
+         {  
+            "code":"574",
+            "description":"Roofer (with height 15m or more)"
+         },
+         {  
+            "code":"575",
+            "description":"Roofer (with height less than 15m)"
+         },
+         {  
+            "code":"576",
+            "description":"Rugby player"
+         },
+         {  
+            "code":"577",
+            "description":"Sales assistant"
+         },
+         {  
+            "code":"578",
+            "description":"Sales consultant"
+         },
+         {  
+            "code":"579",
+            "description":"Sales executive"
+         },
+         {  
+            "code":"58",
+            "description":"Bar waiter/ waitress"
+         },
+         {  
+            "code":"580",
+            "description":"Sales manager"
+         },
+         {  
+            "code":"581",
+            "description":"Sales representative"
+         },
+         {  
+            "code":"582",
+            "description":"Sandblaster"
+         },
+         {  
+            "code":"583",
+            "description":"Scaffolder (with height 15m or more)"
+         },
+         {  
+            "code":"584",
+            "description":"Scaffolder (with height less than 15m)"
+         },
+         {  
+            "code":"585",
+            "description":"Scientific officer"
+         },
+         {  
+            "code":"586",
+            "description":"Scientist"
+         },
+         {  
+            "code":"587",
+            "description":"Seaman (merchant marine)"
+         },
+         {  
+            "code":"588",
+            "description":"Secretary"
+         },
+         {  
+            "code":"589",
+            "description":"Security guard"
+         },
+         {  
+            "code":"59",
+            "description":"Barber (full time employed)"
+         },
+         {  
+            "code":"590",
+            "description":"Self-employed"
+         },
+         {  
+            "code":"591",
+            "description":"Sewage worker"
+         },
+         {  
+            "code":"592",
+            "description":"Shipbuilding worker"
+         },
+         {  
+            "code":"593",
+            "description":"Shipping officer (administrative duties only)"
+         },
+         {  
+            "code":"594",
+            "description":"Shipyard worker"
+         },
+         {  
+            "code":"595",
+            "description":"Shoe repairer (full time employed)"
+         },
+         {  
+            "code":"596",
+            "description":"Shoe repairer (self employed)"
+         },
+         {  
+            "code":"597",
+            "description":"Shop assistant"
+         },
+         {  
+            "code":"598",
+            "description":"Shop keeper"
+         },
+         {  
+            "code":"599",
+            "description":"Shop manager (administrative duties only)"
+         },
+         {  
+            "code":"6",
+            "description":"Acupuncturist (self employed)"
+         },
+         {  
+            "code":"60",
+            "description":"Barber (self employed)"
+         },
+         {  
+            "code":"600",
+            "description":"Signalman"
+         },
+         {  
+            "code":"601",
+            "description":"Signwriter"
+         },
+         {  
+            "code":"602",
+            "description":"Slaughterer"
+         },
+         {  
+            "code":"603",
+            "description":"Social worker"
+         },
+         {  
+            "code":"604",
+            "description":"Sole proprietor"
+         },
+         {  
+            "code":"605",
+            "description":"Solicitor"
+         },
+         {  
+            "code":"606",
+            "description":"Sound technician"
+         },
+         {  
+            "code":"607",
+            "description":"Special effects technician"
+         },
+         {  
+            "code":"608",
+            "description":"Speech therapist (full time employed)"
+         },
+         {  
+            "code":"609",
+            "description":"Speech therapist (self employed)"
+         },
+         {  
+            "code":"61",
+            "description":"Barrister"
+         },
+         {  
+            "code":"610",
+            "description":"Sportsman (professional)"
+         },
+         {  
+            "code":"611",
+            "description":"Steel erector (height 15m or more)"
+         },
+         {  
+            "code":"612",
+            "description":"Steel erector (height less than 15m)"
+         },
+         {  
+            "code":"613",
+            "description":"Stenographer"
+         },
+         {  
+            "code":"614",
+            "description":"Stocktaker"
+         },
+         {  
+            "code":"615",
+            "description":"Store keeper"
+         },
+         {  
+            "code":"616",
+            "description":"Storeman"
+         },
+         {  
+            "code":"617",
+            "description":"Student"
+         },
+         {  
+            "code":"618",
+            "description":"Stuntman"
+         },
+         {  
+            "code":"619",
+            "description":"Sub-editor (full time employed)"
+         },
+         {  
+            "code":"62",
+            "description":"Bartender"
+         },
+         {  
+            "code":"620",
+            "description":"Sub-editor (self employed)"
+         },
+         {  
+            "code":"621",
+            "description":"Supervisor (light and non-hazardous duties)"
+         },
+         {  
+            "code":"622",
+            "description":"Supplier"
+         },
+         {  
+            "code":"623",
+            "description":"Surgeon (full time employed)"
+         },
+         {  
+            "code":"624",
+            "description":"Surgeon (self employed)"
+         },
+         {  
+            "code":"625",
+            "description":"Surveyor (building)"
+         },
+         {  
+            "code":"626",
+            "description":"Surveyor (land)"
+         },
+         {  
+            "code":"627",
+            "description":"Surveyor (marine engineering)"
+         },
+         {  
+            "code":"628",
+            "description":"Surveyor (oil and gas)"
+         },
+         {  
+            "code":"629",
+            "description":"Surveyor (ship building)"
+         },
+         {  
+            "code":"63",
+            "description":"Beautician (full time employed)"
+         },
+         {  
+            "code":"630",
+            "description":"Surveyor (quality)"
+         },
+         {  
+            "code":"631",
+            "description":"Sweeper"
+         },
+         {  
+            "code":"632",
+            "description":"Swimming pool attendant"
+         },
+         {  
+            "code":"633",
+            "description":"Systems engineer"
+         },
+         {  
+            "code":"634",
+            "description":"Tailor"
+         },
+         {  
+            "code":"635",
+            "description":"Tar worker"
+         },
+         {  
+            "code":"636",
+            "description":"Tattooist (full time employed)"
+         },
+         {  
+            "code":"637",
+            "description":"Tattooist (self employed)"
+         },
+         {  
+            "code":"638",
+            "description":"Taxation personnel"
+         },
+         {  
+            "code":"639",
+            "description":"Teacher (physical education)"
+         },
+         {  
+            "code":"64",
+            "description":"Beautician (self employed)"
+         },
+         {  
+            "code":"640",
+            "description":"Teacher (preschool and school)"
+         },
+         {  
+            "code":"641",
+            "description":"Teaching assistant (preschool and school)"
+         },
+         {  
+            "code":"642",
+            "description":"Telephone operator"
+         },
+         {  
+            "code":"643",
+            "description":"Television presenter"
+         },
+         {  
+            "code":"644",
+            "description":"Television technician"
+         },
+         {  
+            "code":"645",
+            "description":"Temple helper"
+         },
+         {  
+            "code":"646",
+            "description":"Textile worker"
+         },
+         {  
+            "code":"647",
+            "description":"Toolmaker"
+         },
+         {  
+            "code":"648",
+            "description":"Tour manager (full time employed)"
+         },
+         {  
+            "code":"649",
+            "description":"Tourist guide (full time employed)"
+         },
+         {  
+            "code":"65",
+            "description":"Bellboy/ bell captain"
+         },
+         {  
+            "code":"650",
+            "description":"Traffic warden"
+         },
+         {  
+            "code":"651",
+            "description":"Train crew"
+         },
+         {  
+            "code":"652",
+            "description":"Translator (full time employed with no overseas duties)"
+         },
+         {  
+            "code":"653",
+            "description":"Translator (self employed with no overseas duties)"
+         },
+         {  
+            "code":"654",
+            "description":"Translator (with overseas duties)"
+         },
+         {  
+            "code":"655",
+            "description":"Transport inspector"
+         },
+         {  
+            "code":"656",
+            "description":"Travel agent (administrative duties only)"
+         },
+         {  
+            "code":"657",
+            "description":"Tutor (full time employed)"
+         },
+         {  
+            "code":"658",
+            "description":"Tutor (self employed)"
+         },
+         {  
+            "code":"659",
+            "description":"Tyre worker"
+         },
+         {  
+            "code":"66",
+            "description":"Blacksmith"
+         },
+         {  
+            "code":"660",
+            "description":"Unemployed"
+         },
+         {  
+            "code":"661",
+            "description":"Upholsterer"
+         },
+         {  
+            "code":"662",
+            "description":"Usher"
+         },
+         {  
+            "code":"663",
+            "description":"Valuer"
+         },
+         {  
+            "code":"664",
+            "description":"Veterinarian"
+         },
+         {  
+            "code":"665",
+            "description":"Veterinary assistant"
+         },
+         {  
+            "code":"666",
+            "description":"Waiter/ waitress (other than bar)"
+         },
+         {  
+            "code":"667",
+            "description":"Wall paper hanger"
+         },
+         {  
+            "code":"668",
+            "description":"Warehouse keeper/ manager"
+         },
+         {  
+            "code":"669",
+            "description":"Warehouseman/ warehouse worker"
+         },
+         {  
+            "code":"67",
+            "description":"Blaster"
+         },
+         {  
+            "code":"670",
+            "description":"Washer"
+         },
+         {  
+            "code":"671",
+            "description":"Weaver (carpet and handloom)"
+         },
+         {  
+            "code":"672",
+            "description":"Weaver (others)"
+         },
+         {  
+            "code":"673",
+            "description":"Welder"
+         },
+         {  
+            "code":"674",
+            "description":"Wholesaler"
+         },
+         {  
+            "code":"675",
+            "description":"Wood carver"
+         },
+         {  
+            "code":"676",
+            "description":"Wood preparation worker"
+         },
+         {  
+            "code":"677",
+            "description":"X-ray technician"
+         },
+         {  
+            "code":"678",
+            "description":"Zoo keeper"
+         },
+         {  
+            "code":"679",
+            "description":"Zoologist"
+         },
+         {  
+            "code":"68",
+            "description":"Bleach worker"
+         },
+         {  
+            "code":"69",
+            "description":"Boat builder"
+         },
+         {  
+            "code":"7",
+            "description":"Adjuster"
+         },
+         {  
+            "code":"70",
+            "description":"Boatman"
+         },
+         {  
+            "code":"71",
+            "description":"Boatswain"
+         },
+         {  
+            "code":"72",
+            "description":"Bodyguard"
+         },
+         {  
+            "code":"73",
+            "description":"Boiler (food, drinks)"
+         },
+         {  
+            "code":"74",
+            "description":"Boiler cleaner"
+         },
+         {  
+            "code":"75",
+            "description":"Boiler operator"
+         },
+         {  
+            "code":"76",
+            "description":"Boiler scaler"
+         },
+         {  
+            "code":"77",
+            "description":"Boiler worker"
+         },
+         {  
+            "code":"78",
+            "description":"Bouncer"
+         },
+         {  
+            "code":"79",
+            "description":"Brewer"
+         },
+         {  
+            "code":"8",
+            "description":"Administrator"
+         },
+         {  
+            "code":"80",
+            "description":"Bricklayer (renovation works)"
+         },
+         {  
+            "code":"81",
+            "description":"Broker (commodity, derivatives, foreign exchange, futures, money mergers and acquisition)"
+         },
+         {  
+            "code":"82",
+            "description":"Broker (stock)"
+         },
+         {  
+            "code":"83",
+            "description":"Building technician"
+         },
+         {  
+            "code":"84",
+            "description":"Butcher"
+         },
+         {  
+            "code":"85",
+            "description":"Butcher (slaughter house)"
+         },
+         {  
+            "code":"86",
+            "description":"Buyer"
+         },
+         {  
+            "code":"87",
+            "description":"Cabinet maker"
+         },
+         {  
+            "code":"88",
+            "description":"Cable installer (with height involvement)"
+         },
+         {  
+            "code":"89",
+            "description":"Cable installer (with no height involvement)"
+         },
+         {  
+            "code":"9",
+            "description":"Advertising agent"
+         },
+         {  
+            "code":"90",
+            "description":"Cable laying diver"
+         },
+         {  
+            "code":"91",
+            "description":"Cafeteria owner"
+         },
+         {  
+            "code":"92",
+            "description":"Cafeteria/ canteen assistant"
+         },
+         {  
+            "code":"93",
+            "description":"Call centre/ telesales staff"
+         },
+         {  
+            "code":"94",
+            "description":"Calligrapher (full time employed)"
+         },
+         {  
+            "code":"95",
+            "description":"Calligrapher (self employed)"
+         },
+         {  
+            "code":"96",
+            "description":"Cane worker"
+         },
+         {  
+            "code":"97",
+            "description":"Canvasser"
+         },
+         {  
+            "code":"98",
+            "description":"Car salesman (full time employed)"
+         },
+         {  
+            "code":"99",
+            "description":"Car washer/ polisher"
+         }
+      ]
+   },
+   {  
+      "referenceType":"RACE",
+      "values":[  
+         {  
+            "code":"C",
+            "description":"Chinese"
+         },
+         {  
+            "code":"I",
+            "description":"Indian"
+         },
+         {  
+            "code":"M",
+            "description":"Malay"
+         },
+         {  
+            "code":"O",
+            "description":"Others"
+         }
+      ]
+   },
+   {  
+      "referenceType":"SMOKESTATUS",
+      "values":[  
+         {  
+            "code":"N",
+            "description":"Non-Smoker"
+         },
+         {  
+            "code":"Y",
+            "description":"Smoker"
+         }
+      ]
+   },
+   {  
+      "referenceType":"TELCOUNTRYCODE",
+      "values":[  
+         {  
+            "code":"0",
+            "description":"HEARD AND MCDONALD"
+         },
+         {  
+            "code":"1",
+            "description":"CANADA"
+         },
+         {  
+            "code":"1",
+            "description":"UNITED STATES"
+         },
+         {  
+            "code":"1",
+            "description":"US OUTLYING ISLANDS"
+         },
+         {  
+            "code":"1-242",
+            "description":"BAHAMAS"
+         },
+         {  
+            "code":"1-246",
+            "description":"BARBADOS"
+         },
+         {  
+            "code":"1-264",
+            "description":"ANGUILLA"
+         },
+         {  
+            "code":"1-268",
+            "description":"ANTIGUA AND BARBUDA"
+         },
+         {  
+            "code":"1-284",
+            "description":"BRIT VIRGIN ISLANDS"
+         },
+         {  
+            "code":"1-340",
+            "description":"US VIRGIN ISLANDS"
+         },
+         {  
+            "code":"1-345",
+            "description":"CAYMAN ISLANDS"
+         },
+         {  
+            "code":"1-441",
+            "description":"BERMUDA"
+         },
+         {  
+            "code":"1-473",
+            "description":"GRENADA"
+         },
+         {  
+            "code":"1-649",
+            "description":"TURKS CAICOS ISLANDS"
+         },
+         {  
+            "code":"1-664",
+            "description":"MONTSERRAT"
+         },
+         {  
+            "code":"1-670",
+            "description":"NORTHERN MARIANA"
+         },
+         {  
+            "code":"1-671",
+            "description":"GUAM"
+         },
+         {  
+            "code":"1-684",
+            "description":"AMERICAN SAMOA"
+         },
+         {  
+            "code":"1-758",
+            "description":"ST. LUCIA"
+         },
+         {  
+            "code":"1-767",
+            "description":"DOMINICA"
+         },
+         {  
+            "code":"1-784",
+            "description":"ST. VINCENT"
+         },
+         {  
+            "code":"1-787",
+            "description":"PUERTO RICO"
+         },
+         {  
+            "code":"1-809",
+            "description":"DOMINICAN REPUBLIC"
+         },
+         {  
+            "code":"1-868",
+            "description":"TRINIDAD AND TOBAGO"
+         },
+         {  
+            "code":"1-869",
+            "description":"ST. KITTS-NEVIS"
+         },
+         {  
+            "code":"1-876",
+            "description":"JAMAICA"
+         },
+         {  
+            "code":"20",
+            "description":"EGYPT"
+         },
+         {  
+            "code":"212",
+            "description":"WESTERN SAHARA"
+         },
+         {  
+            "code":"213",
+            "description":"ALGERIA"
+         },
+         {  
+            "code":"216",
+            "description":"TUNISIA"
+         },
+         {  
+            "code":"218",
+            "description":"LIBYAN"
+         },
+         {  
+            "code":"220",
+            "description":"GAMBIA"
+         },
+         {  
+            "code":"221",
+            "description":"SENEGAL"
+         },
+         {  
+            "code":"222",
+            "description":"MAURITANIA"
+         },
+         {  
+            "code":"223",
+            "description":"MALI"
+         },
+         {  
+            "code":"224",
+            "description":"GUINEA"
+         },
+         {  
+            "code":"225",
+            "description":"IVORY COAST"
+         },
+         {  
+            "code":"226",
+            "description":"BURKINA FASO"
+         },
+         {  
+            "code":"227",
+            "description":"NIGER"
+         },
+         {  
+            "code":"228",
+            "description":"TOGO"
+         },
+         {  
+            "code":"229",
+            "description":"BENIN"
+         },
+         {  
+            "code":"230",
+            "description":"MAURITIUS"
+         },
+         {  
+            "code":"231",
+            "description":"LIBERIA"
+         },
+         {  
+            "code":"232",
+            "description":"SIERRA LEONE"
+         },
+         {  
+            "code":"233",
+            "description":"GHANA"
+         },
+         {  
+            "code":"234",
+            "description":"NIGERIA"
+         },
+         {  
+            "code":"235",
+            "description":"CHAD"
+         },
+         {  
+            "code":"236",
+            "description":"CENTRAL AFRICAN REP"
+         },
+         {  
+            "code":"237",
+            "description":"CAMEROON"
+         },
+         {  
+            "code":"238",
+            "description":"CAPE VERDE"
+         },
+         {  
+            "code":"239",
+            "description":"SAO TOME & PRINCIPE"
+         },
+         {  
+            "code":"240",
+            "description":"EQUATORIAL GUINEA"
+         },
+         {  
+            "code":"241",
+            "description":"GABON"
+         },
+         {  
+            "code":"242",
+            "description":"CONGO"
+         },
+         {  
+            "code":"243",
+            "description":"CONGO DEMOCRATIC REP"
+         },
+         {  
+            "code":"244",
+            "description":"ANGOLA"
+         },
+         {  
+            "code":"245",
+            "description":"GUINEA BISSAU"
+         },
+         {  
+            "code":"246",
+            "description":"INDIAN OCEAN T/TORY"
+         },
+         {  
+            "code":"248",
+            "description":"SEYCHELLES"
+         },
+         {  
+            "code":"249",
+            "description":"SUDAN"
+         },
+         {  
+            "code":"250",
+            "description":"RWANDA"
+         },
+         {  
+            "code":"251",
+            "description":"ETHIOPIA"
+         },
+         {  
+            "code":"252",
+            "description":"SOMALIA"
+         },
+         {  
+            "code":"253",
+            "description":"DJIBOUTI"
+         },
+         {  
+            "code":"254",
+            "description":"KENYA"
+         },
+         {  
+            "code":"255",
+            "description":"TANZANIA"
+         },
+         {  
+            "code":"256",
+            "description":"UGANDA"
+         },
+         {  
+            "code":"257",
+            "description":"BURUNDI"
+         },
+         {  
+            "code":"258",
+            "description":"MOROCCO"
+         },
+         {  
+            "code":"258",
+            "description":"MOZAMBIQUE"
+         },
+         {  
+            "code":"260",
+            "description":"ZAMBIA"
+         },
+         {  
+            "code":"261",
+            "description":"MADAGASCAR"
+         },
+         {  
+            "code":"262",
+            "description":"REUNION (FRENCH)"
+         },
+         {  
+            "code":"262",
+            "description":"SOUTHERN TERRITORIES"
+         },
+         {  
+            "code":"263",
+            "description":"ZIMBABWE"
+         },
+         {  
+            "code":"264",
+            "description":"NAMIBIA"
+         },
+         {  
+            "code":"265",
+            "description":"MALAWI"
+         },
+         {  
+            "code":"266",
+            "description":"LESOTHO"
+         },
+         {  
+            "code":"267",
+            "description":"BOTSWANA"
+         },
+         {  
+            "code":"268",
+            "description":"SWAZILAND"
+         },
+         {  
+            "code":"269",
+            "description":"COMOROS"
+         },
+         {  
+            "code":"269",
+            "description":"MAYOTTE"
+         },
+         {  
+            "code":"27",
+            "description":"SOUTH AFRICA"
+         },
+         {  
+            "code":"290",
+            "description":"ST. HELENA"
+         },
+         {  
+            "code":"291",
+            "description":"ERITREA"
+         },
+         {  
+            "code":"297",
+            "description":"ARUBA"
+         },
+         {  
+            "code":"298",
+            "description":"FALKLAND ISLANDS"
+         },
+         {  
+            "code":"299",
+            "description":"GREENLAND"
+         },
+         {  
+            "code":"30",
+            "description":"GREECE"
+         },
+         {  
+            "code":"31",
+            "description":"NETHERLANDS"
+         },
+         {  
+            "code":"32",
+            "description":"BELGIUM"
+         },
+         {  
+            "code":"33",
+            "description":"FRANCE"
+         },
+         {  
+            "code":"34",
+            "description":"SPAIN"
+         },
+         {  
+            "code":"350",
+            "description":"GIBRALTAR"
+         },
+         {  
+            "code":"351",
+            "description":"PORTUGAL"
+         },
+         {  
+            "code":"352",
+            "description":"LUXEMBOURG"
+         },
+         {  
+            "code":"353",
+            "description":"IRELAND"
+         },
+         {  
+            "code":"354",
+            "description":"ICELAND"
+         },
+         {  
+            "code":"355",
+            "description":"ALBANIA"
+         },
+         {  
+            "code":"356",
+            "description":"MALTA"
+         },
+         {  
+            "code":"357",
+            "description":"CYPRUS"
+         },
+         {  
+            "code":"358",
+            "description":"FINLAND"
+         },
+         {  
+            "code":"358-18",
+            "description":"ALAND ISLANDS"
+         },
+         {  
+            "code":"359",
+            "description":"BULGARIA"
+         },
+         {  
+            "code":"36",
+            "description":"HUNGARY"
+         },
+         {  
+            "code":"370",
+            "description":"LITHUANIA"
+         },
+         {  
+            "code":"371",
+            "description":"LATVIA"
+         },
+         {  
+            "code":"372",
+            "description":"ESTONIA"
+         },
+         {  
+            "code":"373",
+            "description":"MOLDAVIA"
+         },
+         {  
+            "code":"374",
+            "description":"ARMENIA"
+         },
+         {  
+            "code":"375",
+            "description":"BELARUS"
+         },
+         {  
+            "code":"376",
+            "description":"ANDORRA"
+         },
+         {  
+            "code":"377",
+            "description":"MONACO"
+         },
+         {  
+            "code":"378",
+            "description":"SAN MARINO"
+         },
+         {  
+            "code":"379",
+            "description":"VATICAN CITY STATE"
+         },
+         {  
+            "code":"38-1",
+            "description":"YUGOSLAVIA"
+         },
+         {  
+            "code":"380",
+            "description":"UKRAINE"
+         },
+         {  
+            "code":"381",
+            "description":"SERBIA"
+         },
+         {  
+            "code":"381",
+            "description":"SERBIA & MONTENEGRO"
+         },
+         {  
+            "code":"382",
+            "description":"MONTENEGRO"
+         },
+         {  
+            "code":"385",
+            "description":"CROATIA"
+         },
+         {  
+            "code":"386",
+            "description":"SLOVENIA"
+         },
+         {  
+            "code":"387",
+            "description":"BOSNIA-HERZEGOVINA"
+         },
+         {  
+            "code":"389",
+            "description":"MACEDONIA"
+         },
+         {  
+            "code":"39",
+            "description":"ITALY"
+         },
+         {  
+            "code":"40",
+            "description":"ROMANIA"
+         },
+         {  
+            "code":"41",
+            "description":"SWITZERLAND"
+         },
+         {  
+            "code":"420",
+            "description":"CZECH REPUBLIC"
+         },
+         {  
+            "code":"421",
+            "description":"SLOVAK REPUBLIC"
+         },
+         {  
+            "code":"423",
+            "description":"LIECHTENSTEIN"
+         },
+         {  
+            "code":"43",
+            "description":"AUSTRIA"
+         },
+         {  
+            "code":"44",
+            "description":"UNITED KINGDOM"
+         },
+         {  
+            "code":"44-1534",
+            "description":"CHANNEL ISLANDS"
+         },
+         {  
+            "code":"44-1534",
+            "description":"JERSEY"
+         },
+         {  
+            "code":"44-1624",
+            "description":"ISLE OF MAN"
+         },
+         {  
+            "code":"45",
+            "description":"DENMARK"
+         },
+         {  
+            "code":"46",
+            "description":"SWEDEN"
+         },
+         {  
+            "code":"47",
+            "description":"NORWAY"
+         },
+         {  
+            "code":"47",
+            "description":"SVALBARD & JAN MAYEN"
+         },
+         {  
+            "code":"48",
+            "description":"POLAND"
+         },
+         {  
+            "code":"49",
+            "description":"GERMANY"
+         },
+         {  
+            "code":"500",
+            "description":"FAEROE ISLAND"
+         },
+         {  
+            "code":"500",
+            "description":"SOUTH GEORGIA"
+         },
+         {  
+            "code":"501",
+            "description":"BELIZE"
+         },
+         {  
+            "code":"502",
+            "description":"GUATEMALA"
+         },
+         {  
+            "code":"503",
+            "description":"EL SALVADOR"
+         },
+         {  
+            "code":"504",
+            "description":"HONDURAS"
+         },
+         {  
+            "code":"505",
+            "description":"NICARAGUA"
+         },
+         {  
+            "code":"506",
+            "description":"COSTA RICA"
+         },
+         {  
+            "code":"507",
+            "description":"PANAMA"
+         },
+         {  
+            "code":"508",
+            "description":"ST. PIERRE"
+         },
+         {  
+            "code":"509",
+            "description":"HAITI"
+         },
+         {  
+            "code":"51",
+            "description":"PERU"
+         },
+         {  
+            "code":"52",
+            "description":"MEXICO"
+         },
+         {  
+            "code":"53",
+            "description":"CUBA"
+         },
+         {  
+            "code":"54",
+            "description":"ARGENTINA"
+         },
+         {  
+            "code":"55",
+            "description":"BOUVET ISLAND"
+         },
+         {  
+            "code":"55",
+            "description":"BRAZIL"
+         },
+         {  
+            "code":"56",
+            "description":"CHILE"
+         },
+         {  
+            "code":"57",
+            "description":"COLUMBIA"
+         },
+         {  
+            "code":"58",
+            "description":"VENEZUELA"
+         },
+         {  
+            "code":"590",
+            "description":"GUADELOUPE"
+         },
+         {  
+            "code":"591",
+            "description":"BOLIVIA"
+         },
+         {  
+            "code":"592",
+            "description":"GUYANA"
+         },
+         {  
+            "code":"593",
+            "description":"ECUADOR"
+         },
+         {  
+            "code":"594",
+            "description":"FRENCH GUYANA"
+         },
+         {  
+            "code":"595",
+            "description":"PARAGUAY"
+         },
+         {  
+            "code":"596",
+            "description":"MARTINIQUE"
+         },
+         {  
+            "code":"597",
+            "description":"SURINAME"
+         },
+         {  
+            "code":"598",
+            "description":"URUGUAY"
+         },
+         {  
+            "code":"599",
+            "description":"NETHERLANDS ANTILLES"
+         },
+         {  
+            "code":"60",
+            "description":"MALAYSIA"
+         },
+         {  
+            "code":"61",
+            "description":"AUSTRALIA"
+         },
+         {  
+            "code":"61-8",
+            "description":"CHRISTMAS ISLANDS"
+         },
+         {  
+            "code":"61-891",
+            "description":"COCOS ISLANDS"
+         },
+         {  
+            "code":"62",
+            "description":"INDONESIA"
+         },
+         {  
+            "code":"63",
+            "description":"PHILIPPINES"
+         },
+         {  
+            "code":"64",
+            "description":"NEW ZEALAND"
+         },
+         {  
+            "code":"64",
+            "description":"PITCAIRN ISLAND"
+         },
+         {  
+            "code":"65",
+            "description":"SINGAPORE"
+         },
+         {  
+            "code":"66",
+            "description":"THAILAND"
+         },
+         {  
+            "code":"670",
+            "description":"TIMOR-LESTE"
+         },
+         {  
+            "code":"672",
+            "description":"ANTARCTICA"
+         },
+         {  
+            "code":"672",
+            "description":"NORFOLK ISLAND"
+         },
+         {  
+            "code":"673",
+            "description":"BRUNEI DARUSSALAM"
+         },
+         {  
+            "code":"674",
+            "description":"NAURU"
+         },
+         {  
+            "code":"675",
+            "description":"PAPUA NEW GUINEA"
+         },
+         {  
+            "code":"676",
+            "description":"TONGA"
+         },
+         {  
+            "code":"677",
+            "description":"SOLOMON ISLANDS"
+         },
+         {  
+            "code":"678",
+            "description":"VANUATU"
+         },
+         {  
+            "code":"679",
+            "description":"FIJI"
+         },
+         {  
+            "code":"680",
+            "description":"PALAU"
+         },
+         {  
+            "code":"681",
+            "description":"WALLIS AND FUTUNA"
+         },
+         {  
+            "code":"682",
+            "description":"COOK ISLANDS"
+         },
+         {  
+            "code":"683",
+            "description":"NIUE"
+         },
+         {  
+            "code":"685",
+            "description":"SAMOA"
+         },
+         {  
+            "code":"686",
+            "description":"KIRIBATI"
+         },
+         {  
+            "code":"687",
+            "description":"NEW CALEDONIA"
+         },
+         {  
+            "code":"688",
+            "description":"TUVALU"
+         },
+         {  
+            "code":"689",
+            "description":"FRENCH POLYNESIA"
+         },
+         {  
+            "code":"690",
+            "description":"TOKELAU"
+         },
+         {  
+            "code":"691",
+            "description":"MICRONESIA FED STATE"
+         },
+         {  
+            "code":"692",
+            "description":"MARSHALL ISLANDS"
+         },
+         {  
+            "code":"7",
+            "description":"KAZAKHSTAN"
+         },
+         {  
+            "code":"7",
+            "description":"RUSSIA"
+         },
+         {  
+            "code":"81",
+            "description":"JAPAN"
+         },
+         {  
+            "code":"82",
+            "description":"SOUTH KOREA"
+         },
+         {  
+            "code":"84",
+            "description":"VIETNAM"
+         },
+         {  
+            "code":"850",
+            "description":"NORTH KOREA"
+         },
+         {  
+            "code":"852",
+            "description":"HONG KONG"
+         },
+         {  
+            "code":"853",
+            "description":"MACAO"
+         },
+         {  
+            "code":"855",
+            "description":"CAMBODIA"
+         },
+         {  
+            "code":"856",
+            "description":"LAO"
+         },
+         {  
+            "code":"86",
+            "description":"CHINA"
+         },
+         {  
+            "code":"880",
+            "description":"BANGLADESH"
+         },
+         {  
+            "code":"886",
+            "description":"TAIWAN"
+         },
+         {  
+            "code":"90",
+            "description":"TURKEY"
+         },
+         {  
+            "code":"91",
+            "description":"INDIA"
+         },
+         {  
+            "code":"92",
+            "description":"PAKISTAN"
+         },
+         {  
+            "code":"93",
+            "description":"AFGHANISTAN"
+         },
+         {  
+            "code":"94",
+            "description":"SRI LANKA"
+         },
+         {  
+            "code":"95",
+            "description":"MYANMAR"
+         },
+         {  
+            "code":"960",
+            "description":"MALDIVES"
+         },
+         {  
+            "code":"961",
+            "description":"LEBANON"
+         },
+         {  
+            "code":"962",
+            "description":"JORDAN"
+         },
+         {  
+            "code":"963",
+            "description":"SYRIAN ARAB REPUBLIC"
+         },
+         {  
+            "code":"964",
+            "description":"IRAQ"
+         },
+         {  
+            "code":"965",
+            "description":"KUWAIT"
+         },
+         {  
+            "code":"966",
+            "description":"SAUDI ARABIA"
+         },
+         {  
+            "code":"967",
+            "description":"YEMEN"
+         },
+         {  
+            "code":"968",
+            "description":"OMAN"
+         },
+         {  
+            "code":"970",
+            "description":"PALESTINIA TERRITORY"
+         },
+         {  
+            "code":"971",
+            "description":"UNITED ARAB EMIRATES"
+         },
+         {  
+            "code":"972",
+            "description":"ISRAEL"
+         },
+         {  
+            "code":"973",
+            "description":"BAHRAIN"
+         },
+         {  
+            "code":"974",
+            "description":"QATAR"
+         },
+         {  
+            "code":"975",
+            "description":"BHUTAN"
+         },
+         {  
+            "code":"976",
+            "description":"MONGOLIA"
+         },
+         {  
+            "code":"977",
+            "description":"NEPAL"
+         },
+         {  
+            "code":"98",
+            "description":"IRAN ISLAMIC REP OF"
+         },
+         {  
+            "code":"992",
+            "description":"TADJIKISTAN"
+         },
+         {  
+            "code":"993",
+            "description":"TURKMENISTAN"
+         },
+         {  
+            "code":"994",
+            "description":"AZERBAIDJAN"
+         },
+         {  
+            "code":"995",
+            "description":"GEORGIA"
+         },
+         {  
+            "code":"996",
+            "description":"KYRGYZ REPUBLIC"
+         },
+         {  
+            "code":"998",
+            "description":"UZBEKISTAN"
+         }
+      ]
+   },
+   {  
+      "referenceType":"TITLE",
+      "values":[  
+         {  
+            "code":"DR",
+            "description":"Dr"
+         },
+         {  
+            "code":"MASTER",
+            "description":"Master"
+         },
+         {  
+            "code":"MDM",
+            "description":"Madam"
+         },
+         {  
+            "code":"MR",
+            "description":"Mr"
+         },
+         {  
+            "code":"MRS",
+            "description":"Mrs"
+         },
+         {  
+            "code":"MS",
+            "description":"Ms"
+         }
+      ]
+   }
+]
