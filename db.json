@@ -1,12 +1,6 @@
   "mainPlan":{  
    "planCode":"0880",
    "planName":"GREAT SP Flexi",
-   "abbreviationName":"0880",
-   "productAbbreviationName":"GSPFlexi",
-   "category":"1",
-   "minSumAssured":"10500.00",
-   "maxSumAssured":"9999999999.00",
-   "sumAssuredUnit":"1",
    "minEntryAge":"1",
    "minEntryAgeUnit":"1",
    "maxEntryAge":"80",
