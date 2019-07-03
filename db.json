@@ -1,6 +1,8 @@
+{
   
     "paymentOptions": [
     "CASH_CHEQUE",
     "SRS"
   ]
+}
 
