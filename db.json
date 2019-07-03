@@ -1,9 +1,5 @@
-{"systemInformation": [
-    {
-      "errorCode": "4039",
-      "errorMessage": "Insured title cannot be blank",
-      "timestamp": "2019-06-03"
-    }
-    
-    ]
+  {"paymentOptions": [
+    "CASH_CHEQUE",
+    "SRS"
+  ]
 }
