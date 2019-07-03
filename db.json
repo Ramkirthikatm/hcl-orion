@@ -1,5 +1,12 @@
-  {"paymentOptions": [
+{"mainPlan":{
+  "planCode": "0880",
+  "planName": "GREAT SP Flexi",
+  "abbreviationName": "0880",
+  "productAbbreviationName": "GSPFlexi",
+    "paymentOptions": [
     "CASH_CHEQUE",
     "SRS"
   ]
+
+}
 }
